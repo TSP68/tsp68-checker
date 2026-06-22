@@ -109,7 +109,7 @@ This software is **free**. Now and always. If someone charged you money for it, 
 - Long jobs open a console window so the GUI does not freeze
 - For live TData checks: install Python 3.11 and follow `Tools\readme.txt`
 
-Use only on data you are allowed to process.
+Use only on data you are allowed to process.  
 
 ---
 
