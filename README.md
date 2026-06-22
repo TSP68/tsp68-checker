@@ -14,7 +14,9 @@ Windows 10/11, 64-bit. No install needed.
 
 ![Home screen](screenshots/home.png)
 
-![Archive to ULP](screenshots/archive-ulp.png)
+![Archive to ULP](screenshots/ulp-result.png)
+
+![ULP result](screenshots/archive-ulp.png)
 
 ![TData Checker](screenshots/tdata-checker.png)
 
