@@ -110,7 +110,11 @@ If you are unsure, run it on a clean RDP or VM, watch incoming/outgoing traffic,
 This software is **free**. Now and always. If someone charged you money for it, you were scammed. Official builds live here and on [source-shade.com](https://source-shade.com).
 
 ---
+## Built with
 
+- **C# / .NET 8 (WPF)** — the main application (TSP68Checker.exe)
+- **Python (optional)** — only the Tools folder, for live TData checking. The app works without Python for everything else.
+- 
 ## Other notes
 
 - 6 languages: English, Turkish, Russian, German, Arabic, Indonesian
