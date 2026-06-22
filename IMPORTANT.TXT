@@ -1,0 +1,37 @@
+TSP68 Checker - IMPORTANT
+===========================
+
+WHAT IS INCLUDED
+----------------
+- TSP68Checker.exe  (self-contained, 64-bit Windows)
+- Tools\             (Python scripts for TData Checker live validation)
+- IMPORTANT.TXT      (this file)
+
+
+
+REQUIREMENTS (CLEAN PC)
+-----------------------
+- Python 3.11.9 + pip packages — see Tools\readme.txt
+- Structure-only TData check works WITHOUT Python
+
+-----------------------------------------------------------------------------
+
+FIRST RUN
+---------
+- Double-click TSP68Checker.exe
+- Choose your language
+- For archive tools: add archive passwords in Settings if needed
+- Output files are saved under Desktop\TSP68 (or your custom output path in Settings)
+
+-----------------------------------------------------------------------------
+
+TROUBLESHOOTING
+---------------
+- Windows SmartScreen: click "More info" then "Run anyway" if you trust this release
+- If the app does not start: install Microsoft Visual C++ 2015-2022 Redistributable (x64) from Microsoft
+- TData Checker live mode: follow Tools\readme.txt exactly
+- Proxy test only works when a proxy is set in Settings
+
+-----------------------------------------------------------------------------
+
+source-shade.com
