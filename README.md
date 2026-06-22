@@ -1,12 +1,10 @@
 # TSP68 Checker v1.08
 
-Windows tool for working with stealer logs. Unpack archives, pull credentials, search for cards/TData/wallets, check Telegram sessions.
+Windows tool for working with stealer logs. Unpack archives, pull credentials, search for cards/TData/wallets, check Telegram sessions. (Windows 10/11, 64-bit.)
 
 Official site: [source-shade.com](https://source-shade.com)
 
 **Download:** [Releases](https://github.com/tsp68/tsp68-checker/releases) → get `TSP68-v1.08.zip`, extract, run `TSP68Checker.exe`
-
-Windows 10/11, 64-bit. No install needed.
 
 ---
 
@@ -85,17 +83,6 @@ Finds `tdata` folders inside archives or on disk and checks whether they are usa
 **With Python 3.11** (see `Tools\readme.txt`): full live Telegram check — phone, premium status, 2FA, dialog count, and more.
 
 In Settings you can set up a Telegram bot (bot token + chat/group ID) to automatically zip and send live-valid TData sessions to your channel. Proxy support is there too (HTTP, SOCKS4, SOCKS5) with a test button on the TData page.
-
----
-
-## Quick start
-
-1. Download the zip from [Releases](https://github.com/tsp68/tsp68-checker/releases)
-2. Extract anywhere
-3. Run `TSP68Checker.exe`, pick a language
-4. Open **Settings** (bottom left) → add archive passwords if your files are encrypted
-5. Choose a module from the sidebar → select files → **START**
-6. Output lands in `Desktop\TSP68` unless you changed the path in Settings
 
 ---
 
